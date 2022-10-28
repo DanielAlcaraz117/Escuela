@@ -17,7 +17,7 @@ public class FPSCamere : MonoBehaviour
     void Update()
     {
         float hor = Input.GetAxis("Mouse X");
-        float ver = Input.GetAxis("Mouse Y");
+        float ver = Input.GetAxis("Mouse Y");   
 
         if (hor != 0)
         {
@@ -25,7 +25,12 @@ public class FPSCamere : MonoBehaviour
         }
         if (ver != 0)
         {
-            camera.Rotate(Vector3.left * ver);
+
+            //camera.Rotate(Vector3.left * ver);
+            float angle = (camera.localEulerAngles.x - ver);
+
+            camera.localEulerAngles = Vector3.right * angle;
+
         }
     }
 }
