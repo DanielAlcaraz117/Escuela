@@ -100,7 +100,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 17
+  controlID: 42
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -152,7 +152,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 16
+  controlID: 41
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -374,9 +374,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: bc890000
+      m_SelectedIDs: 28760000
       m_LastClickedID: 0
-      m_ExpandedIDs: 04daffffe4dbffff
+      m_ExpandedIDs: 
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -625,9 +625,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 772.6555, y: 644.7311, z: 409.7049}
+    m_Target: {x: 88.821106, y: -31.284943, z: -59.555145}
     speed: 2
-    m_Value: {x: 772.6555, y: 644.7311, z: 409.7049}
+    m_Value: {x: 88.821106, y: -31.284943, z: -59.555145}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -674,13 +674,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.04615639, y: 0.028151836, z: 0.0013019259, w: -0.99855095}
+    m_Target: {x: 0.07182191, y: 0.88512325, z: -0.14575289, w: 0.4360968}
     speed: 2
-    m_Value: {x: 0.046153728, y: 0.029649206, z: 0.0013711394, w: -0.9984933}
+    m_Value: {x: 0.070950076, y: 0.8859828, z: -0.14452976, w: 0.43486992}
   m_Size:
-    m_Target: 819.25134
+    m_Target: 53.804306
     speed: 2
-    m_Value: 819.25134
+    m_Value: 53.804306
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -746,13 +746,13 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scenes
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scenes
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\cread\OneDrive\Documentos\GitHub\Escuela\Proyecto del
     equipo
@@ -760,8 +760,8 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 79}
-    m_SelectedIDs: 7e890000
-    m_LastClickedID: 35198
+    m_SelectedIDs: d2880000
+    m_LastClickedID: 35026
     m_ExpandedIDs: 00000000d288000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -817,7 +817,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
