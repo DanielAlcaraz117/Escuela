@@ -1,14 +1,2291 @@
 fileFormatVersion: 2
 guid: bf28d8b6309e56b45aaff2cf7a0ae9bc
 ModelImporter:
-  serializedVersion: 21300
-  internalIDToNameTable:
-  - first:
-      74: 1827226128182048838
-    second: Take 001
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: betun1
+    100002: betun_arriba_l_01
+    100004: betun_arriba_l_02
+    100006: Betun_circulo_ojo_l_01
+    100008: Betun_circulo_ojo_l_02
+    100010: betun_mandibila_l_01
+    100012: betun_mandibila_l_02
+    100014: bigote_l_01
+    100016: bigote_l_02
+    100018: bolita_nariz
+    100020: bolita_nariz1
+    100022: bolita_nariz10
+    100024: bolita_nariz11
+    100026: bolita_nariz12
+    100028: bolita_nariz13
+    100030: bolita_nariz14
+    100032: bolita_nariz15
+    100034: bolita_nariz16
+    100036: bolita_nariz17
+    100038: bolita_nariz18
+    100040: bolita_nariz19
+    100042: bolita_nariz2
+    100044: bolita_nariz20
+    100046: bolita_nariz21
+    100048: bolita_nariz22
+    100050: bolita_nariz23
+    100052: bolita_nariz24
+    100054: bolita_nariz25
+    100056: bolita_nariz3
+    100058: bolita_nariz4
+    100060: bolita_nariz5
+    100062: bolita_nariz6
+    100064: bolita_nariz7
+    100066: bolita_nariz8
+    100068: bolita_nariz9
+    100070: bolita_ojo_01
+    100072: bolita_ojo_010
+    100074: bolita_ojo_02
+    100076: bolita_ojo_03
+    100078: bolita_ojo_04
+    100080: bolita_ojo_05
+    100082: bolita_ojo_06
+    100084: bolita_ojo_07
+    100086: bolita_ojo_08
+    100088: bolita_ojo_09
+    100090: bolita_ojo_r_01
+    100092: bolita_ojo_r_010
+    100094: bolita_ojo_r_02
+    100096: bolita_ojo_r_03
+    100098: bolita_ojo_r_04
+    100100: bolita_ojo_r_05
+    100102: bolita_ojo_r_06
+    100104: bolita_ojo_r_07
+    100106: bolita_ojo_r_08
+    100108: bolita_ojo_r_09
+    100110: bolita_petalo
+    100112: bolita_petalo 1
+    100114: bolita_petalo1
+    100116: bolita_petalo1 1
+    100118: bolita_petalo2
+    100120: bolita_petalo2 1
+    100122: bolita_petalo3
+    100124: bolita_petalo3 1
+    100126: bolita_petalo4
+    100128: bolita_petalo4 1
+    100130: bolita_petalo5
+    100132: bolita_petalo5 1
+    100134: bolita_petalo6
+    100136: bolita_petalo6 1
+    100138: bolita_petalo7
+    100140: bolita_petalo7 1
+    100142: bolita_petalo8
+    100144: bolita_petalo8 1
+    100146: bolita_petalo9
+    100148: bolita_petalo9 1
+    100150: bolita_petalos_azules_l_01
+    100152: bolita_petalos_azules_l_02
+    100154: Bolitas_nariz
+    100156: calavera_02_MUJER_02:betun
+    100158: calavera_02_MUJER_02:betun_bolitas_ojo_l_01
+    100160: calavera_02_MUJER_02:betun_bolitas_ojo_r_01
+    100162: calavera_02_MUJER_02:betun_ojos_l_01
+    100164: calavera_02_MUJER_02:betun_ojos_l_01 1
+    100166: calavera_02_MUJER_02:betun_ojos_l_010
+    100168: calavera_02_MUJER_02:betun_ojos_l_010 1
+    100170: calavera_02_MUJER_02:betun_ojos_l_011
+    100172: calavera_02_MUJER_02:betun_ojos_l_011 1
+    100174: calavera_02_MUJER_02:betun_ojos_l_012
+    100176: calavera_02_MUJER_02:betun_ojos_l_012 1
+    100178: calavera_02_MUJER_02:betun_ojos_l_013
+    100180: calavera_02_MUJER_02:betun_ojos_l_013 1
+    100182: calavera_02_MUJER_02:betun_ojos_l_014
+    100184: calavera_02_MUJER_02:betun_ojos_l_014 1
+    100186: calavera_02_MUJER_02:betun_ojos_l_015
+    100188: calavera_02_MUJER_02:betun_ojos_l_016
+    100190: calavera_02_MUJER_02:betun_ojos_l_017
+    100192: calavera_02_MUJER_02:betun_ojos_l_018
+    100194: calavera_02_MUJER_02:betun_ojos_l_019
+    100196: calavera_02_MUJER_02:betun_ojos_l_02
+    100198: calavera_02_MUJER_02:betun_ojos_l_02 1
+    100200: calavera_02_MUJER_02:betun_ojos_l_020
+    100202: calavera_02_MUJER_02:betun_ojos_l_021
+    100204: calavera_02_MUJER_02:betun_ojos_l_022
+    100206: calavera_02_MUJER_02:betun_ojos_l_023
+    100208: calavera_02_MUJER_02:betun_ojos_l_024
+    100210: calavera_02_MUJER_02:betun_ojos_l_03
+    100212: calavera_02_MUJER_02:betun_ojos_l_03 1
+    100214: calavera_02_MUJER_02:betun_ojos_l_04
+    100216: calavera_02_MUJER_02:betun_ojos_l_04 1
+    100218: calavera_02_MUJER_02:betun_ojos_l_05
+    100220: calavera_02_MUJER_02:betun_ojos_l_05 1
+    100222: calavera_02_MUJER_02:betun_ojos_l_06
+    100224: calavera_02_MUJER_02:betun_ojos_l_06 1
+    100226: calavera_02_MUJER_02:betun_ojos_l_07
+    100228: calavera_02_MUJER_02:betun_ojos_l_07 1
+    100230: calavera_02_MUJER_02:betun_ojos_l_08
+    100232: calavera_02_MUJER_02:betun_ojos_l_08 1
+    100234: calavera_02_MUJER_02:betun_ojos_l_09
+    100236: calavera_02_MUJER_02:betun_ojos_l_09 1
+    100238: "calavera_02_MUJER_02:betun_pesta\xF1as_l_01"
+    100240: "calavera_02_MUJER_02:betun_pesta\xF1as_l_02"
+    100242: calavera_02_MUJER_02:Craneo_01_MUJER
+    100244: calavera_02_MUJER_02:Craneo_superior_base_01
+    100246: calavera_02_MUJER_02:diente_abajo_01
+    100248: calavera_02_MUJER_02:diente_abajo_01 1
+    100250: calavera_02_MUJER_02:diente_abajo_010
+    100252: calavera_02_MUJER_02:diente_abajo_010 1
+    100254: calavera_02_MUJER_02:diente_abajo_011
+    100256: calavera_02_MUJER_02:diente_abajo_011 1
+    100258: calavera_02_MUJER_02:diente_abajo_02
+    100260: calavera_02_MUJER_02:diente_abajo_02 1
+    100262: calavera_02_MUJER_02:diente_arriba_01
+    100264: calavera_02_MUJER_02:diente_arriba_01 1
+    100266: calavera_02_MUJER_02:diente_arriba_03
+    100268: calavera_02_MUJER_02:diente_arriba_03 1
+    100270: calavera_02_MUJER_02:diente_arriba_04
+    100272: calavera_02_MUJER_02:diente_arriba_04 1
+    100274: calavera_02_MUJER_02:diente_arriba_05
+    100276: calavera_02_MUJER_02:diente_arriba_05 1
+    100278: calavera_02_MUJER_02:diente_arriba_06
+    100280: calavera_02_MUJER_02:diente_arriba_06 1
+    100282: calavera_02_MUJER_02:diente_arriba_07
+    100284: calavera_02_MUJER_02:diente_arriba_07 1
+    100286: calavera_02_MUJER_02:diente_arriba_08
+    100288: calavera_02_MUJER_02:diente_arriba_08 1
+    100290: calavera_02_MUJER_02:diente_arriba_09
+    100292: calavera_02_MUJER_02:diente_arriba_09 1
+    100294: calavera_02_MUJER_02:dientes
+    100296: calavera_02_MUJER_02:dientes_arriba_01
+    100298: calavera_02_MUJER_02:dientes_arriba_02
+    100300: calavera_02_MUJER_02:grupo_dientes_abajo_l_01
+    100302: calavera_02_MUJER_02:grupo_dientes_abajo_l_02
+    100304: calavera_02_MUJER_02:mandibula
+    100306: calavera_02_MUJER_02:mandibula1
+    100308: calavera_02_MUJER_02:muela_abajo_l_01
+    100310: calavera_02_MUJER_02:muela_abajo_l_01 1
+    100312: calavera_02_MUJER_02:muela_abajo_l_02
+    100314: calavera_02_MUJER_02:muela_abajo_l_02 1
+    100316: calavera_02_MUJER_02:muela_abajo_l_03
+    100318: calavera_02_MUJER_02:muela_abajo_l_03 1
+    100320: calavera_02_MUJER_02:muela_abajo_l_04
+    100322: calavera_02_MUJER_02:muela_abajo_l_04 1
+    100324: calavera_02_MUJER_02:Ojo_l_01
+    100326: calavera_02_MUJER_02:ojo_r_01
+    100328: "calavera_02_MUJER_02:pESTA\xD1AS"
+    100330: "calavera_02_MUJER_02:pesta\xF1a_01_l_01"
+    100332: "calavera_02_MUJER_02:pesta\xF1a_01_l_01 1"
+    100334: "calavera_02_MUJER_02:pesta\xF1a_01_l_02"
+    100336: "calavera_02_MUJER_02:pesta\xF1a_01_l_02 1"
+    100338: "calavera_02_MUJER_02:pesta\xF1a_01_l_03"
+    100340: "calavera_02_MUJER_02:pesta\xF1a_01_l_03 1"
+    100342: "calavera_02_MUJER_02:pesta\xF1a_01_l_04"
+    100344: "calavera_02_MUJER_02:pesta\xF1a_01_l_04 1"
+    100346: calavera_02_MUJER_02:rosa_01
+    100348: calavera_02_MUJER_02:rosa_010
+    100350: calavera_02_MUJER_02:rosa_011
+    100352: calavera_02_MUJER_02:rosa_012
+    100354: calavera_02_MUJER_02:rosa_013
+    100356: calavera_02_MUJER_02:rosa_014
+    100358: calavera_02_MUJER_02:rosa_015
+    100360: calavera_02_MUJER_02:rosa_016
+    100362: calavera_02_MUJER_02:rosa_017
+    100364: calavera_02_MUJER_02:rosa_02
+    100366: calavera_02_MUJER_02:rosa_03
+    100368: calavera_02_MUJER_02:rosa_04
+    100370: calavera_02_MUJER_02:rosa_05
+    100372: calavera_02_MUJER_02:rosa_06
+    100374: calavera_02_MUJER_02:rosa_07
+    100376: calavera_02_MUJER_02:rosa_08
+    100378: calavera_02_MUJER_02:rosa_09
+    100380: calavera_02_MUJER_02:rosas
+    100382: CALAVERA_06_CHOCOLATE:Betun
+    100384: CALAVERA_06_CHOCOLATE:betun_ceja_r_01
+    100386: CALAVERA_06_CHOCOLATE:betun_ceja_r_02
+    100388: CALAVERA_06_CHOCOLATE:Betun_lagrima_l_01
+    100390: CALAVERA_06_CHOCOLATE:Betun_lagrima_r_01
+    100392: CALAVERA_06_CHOCOLATE:Betun_pelo_r_010
+    100394: CALAVERA_06_CHOCOLATE:Betun_pelo_r_011
+    100396: CALAVERA_06_CHOCOLATE:Betun_pelo_r_03
+    100398: CALAVERA_06_CHOCOLATE:Betun_pelo_r_04
+    100400: CALAVERA_06_CHOCOLATE:Betun_pelo_r_05
+    100402: CALAVERA_06_CHOCOLATE:Betun_pelo_r_06
+    100404: CALAVERA_06_CHOCOLATE:Betun_pelo_r_07
+    100406: CALAVERA_06_CHOCOLATE:Betun_pelo_r_08
+    100408: CALAVERA_06_CHOCOLATE:Betun_pelo_r_09
+    100410: CALAVERA_06_CHOCOLATE:Craneo_superior_base_01
+    100412: CALAVERA_06_CHOCOLATE:diente_abajo_01
+    100414: CALAVERA_06_CHOCOLATE:diente_abajo_01 1
+    100416: CALAVERA_06_CHOCOLATE:diente_abajo_010
+    100418: CALAVERA_06_CHOCOLATE:diente_abajo_010 1
+    100420: CALAVERA_06_CHOCOLATE:diente_abajo_011
+    100422: CALAVERA_06_CHOCOLATE:diente_abajo_011 1
+    100424: CALAVERA_06_CHOCOLATE:diente_abajo_02
+    100426: CALAVERA_06_CHOCOLATE:diente_abajo_02 1
+    100428: CALAVERA_06_CHOCOLATE:diente_arriba_01
+    100430: CALAVERA_06_CHOCOLATE:diente_arriba_01 1
+    100432: CALAVERA_06_CHOCOLATE:diente_arriba_03
+    100434: CALAVERA_06_CHOCOLATE:diente_arriba_03 1
+    100436: CALAVERA_06_CHOCOLATE:diente_arriba_04
+    100438: CALAVERA_06_CHOCOLATE:diente_arriba_04 1
+    100440: CALAVERA_06_CHOCOLATE:diente_arriba_05
+    100442: CALAVERA_06_CHOCOLATE:diente_arriba_05 1
+    100444: CALAVERA_06_CHOCOLATE:diente_arriba_06
+    100446: CALAVERA_06_CHOCOLATE:diente_arriba_06 1
+    100448: CALAVERA_06_CHOCOLATE:diente_arriba_07
+    100450: CALAVERA_06_CHOCOLATE:diente_arriba_07 1
+    100452: CALAVERA_06_CHOCOLATE:diente_arriba_08
+    100454: CALAVERA_06_CHOCOLATE:diente_arriba_08 1
+    100456: CALAVERA_06_CHOCOLATE:diente_arriba_09
+    100458: CALAVERA_06_CHOCOLATE:diente_arriba_09 1
+    100460: CALAVERA_06_CHOCOLATE:dientes
+    100462: CALAVERA_06_CHOCOLATE:dientes_arriba_01
+    100464: CALAVERA_06_CHOCOLATE:dientes_arriba_02
+    100466: CALAVERA_06_CHOCOLATE:grupo_dientes_abajo_l_01
+    100468: CALAVERA_06_CHOCOLATE:grupo_dientes_abajo_l_02
+    100470: CALAVERA_06_CHOCOLATE:Lemgua
+    100472: CALAVERA_06_CHOCOLATE:mandibula
+    100474: CALAVERA_06_CHOCOLATE:mandibula1
+    100476: CALAVERA_06_CHOCOLATE:muela_abajo_l_01
+    100478: CALAVERA_06_CHOCOLATE:muela_abajo_l_01 1
+    100480: CALAVERA_06_CHOCOLATE:muela_abajo_l_02
+    100482: CALAVERA_06_CHOCOLATE:muela_abajo_l_02 1
+    100484: CALAVERA_06_CHOCOLATE:muela_abajo_l_03
+    100486: CALAVERA_06_CHOCOLATE:muela_abajo_l_03 1
+    100488: CALAVERA_06_CHOCOLATE:muela_abajo_l_04
+    100490: CALAVERA_06_CHOCOLATE:muela_abajo_l_04 1
+    100492: CALAVERA_06_CHOCOLATE:Ojo_l__chocolate_01
+    100494: CALAVERA_06_CHOCOLATE:Ojo_R__chocolate_02
+    100496: CALAVERA_06_CHOCOLATE:OJOS_CHOCOLATE
+    100498: //RootNode
+    100500: ceja_bola_l_01
+    100502: ceja_bola_l_01 1
+    100504: ceja_bola_l_02
+    100506: ceja_bola_l_02 1
+    100508: ceja_bola_l_03
+    100510: ceja_bola_l_03 1
+    100512: ceja_bola_l_04
+    100514: ceja_bola_l_04 1
+    100516: ceja_bola_l_05
+    100518: ceja_bola_l_05 1
+    100520: ceja_bola_l_06
+    100522: ceja_bola_l_06 1
+    100524: ceja_bola_l_07
+    100526: ceja_bola_l_07 1
+    100528: ceja_l_01
+    100530: ceja_l_02
+    100532: CENPASUCHIL_amarillo
+    100534: CENPASUCHIL_morado_rojizo
+    100536: CENPASUCHL_AMARILLO_Naranjoso
+    100538: CENPASUCHL_AMARILLO_Naranjoso1
+    100540: CENPASUCHL_AMARILLO_Naranjoso2
+    100542: CENPASUCHL_AMARILLO_Naranjoso3
+    100544: CENPASUCHL_AMARILLO_Naranjoso4
+    100546: CENPASUCHL_AMARILLO_Naranjoso5
+    100548: CENPASUCHL_AMARILLO_Naranjoso6
+    100550: CHOCOLATE1
+    100552: cosoza
+    100554: cosoza 1
+    100556: cosoza1
+    100558: cosoza1 1
+    100560: cosoza2
+    100562: cosoza2 1
+    100564: cosoza3
+    100566: cosoza3 1
+    100568: cosoza4
+    100570: cosoza4 1
+    100572: cosoza6
+    100574: cosoza6 1
+    100576: cosoza7
+    100578: cosoza7 1
+    100580: Craneo_01
+    100582: Craneo_superior_base_01
+    100584: CUADRO
+    100586: cuadro:cristal
+    100588: cuadro:ramka01
+    100590: cuadro:Shape01
+    100592: cuerda_vela
+    100594: cuerda_vela 1
+    100596: cuerda_vela 2
+    100598: diente_abajo_01
+    100600: diente_abajo_01 1
+    100602: diente_abajo_010
+    100604: diente_abajo_010 1
+    100606: diente_abajo_011
+    100608: diente_abajo_011 1
+    100610: diente_abajo_02
+    100612: diente_abajo_02 1
+    100614: diente_arriba_01
+    100616: diente_arriba_01 1
+    100618: diente_arriba_03
+    100620: diente_arriba_03 1
+    100622: diente_arriba_04
+    100624: diente_arriba_04 1
+    100626: diente_arriba_05
+    100628: diente_arriba_05 1
+    100630: diente_arriba_06
+    100632: diente_arriba_06 1
+    100634: diente_arriba_07
+    100636: diente_arriba_07 1
+    100638: diente_arriba_08
+    100640: diente_arriba_08 1
+    100642: diente_arriba_09
+    100644: diente_arriba_09 1
+    100646: dientes
+    100648: dientes_arriba_01
+    100650: dientes_arriba_02
+    100652: FLORES_CEPASUCHILT_01:CENPASUCHIL_amarillo
+    100654: FLORES_CEPASUCHILT_01:CENPASUCHIL_morado_rojizo
+    100656: FLORES_CEPASUCHILT_01:CENPASUCHL_AMARILLO_Naranjoso
+    100658: FLORES_CEPASUCHILT_01:flores_cempasuchilt
+    100660: gotas_vela_01
+    100662: gotas_vela_01 1
+    100664: gotas_vela_01 2
+    100666: gotas_vela_02
+    100668: gotas_vela_02 1
+    100670: gotas_vela_02 2
+    100672: gotas_vela_03
+    100674: gotas_vela_03 1
+    100676: gotas_vela_03 2
+    100678: gotas_vela_04
+    100680: gotas_vela_04 1
+    100682: gotas_vela_04 2
+    100684: gotas_vela_05
+    100686: gotas_vela_05 1
+    100688: gotas_vela_05 2
+    100690: grupo_dientes_abajo_l_01
+    100692: grupo_dientes_abajo_l_02
+    100694: luces:Luces
+    100696: luces:pasted__group
+    100698: mandibula
+    100700: mandibula1
+    100702: Mantel_blanco
+    100704: Mantel_blanco_02
+    100706: Mesa
+    100708: Mesa_altar_01
+    100710: Mesa_altar_03
+    100712: muela_abajo_l_01
+    100714: muela_abajo_l_01 1
+    100716: muela_abajo_l_02
+    100718: muela_abajo_l_02 1
+    100720: muela_abajo_l_03
+    100722: muela_abajo_l_03 1
+    100724: muela_abajo_l_04
+    100726: muela_abajo_l_04 1
+    100728: mujer
+    100730: Ojo_l_01
+    100732: ojo_r_01
+    100734: ojos
+    100736: PAN
+    100738: pan_muerto:Hueso10
+    100740: pan_muerto:Hueso11
+    100742: pan_muerto:Hueso2
+    100744: pan_muerto:Hueso7
+    100746: pan_muerto:Hueso8
+    100748: pan_muerto:Hueso9
+    100750: pan_muerto:pan_muerto_base
+    100752: pan_muerto:pan_muerto_punta
+    100754: papel_base_azul
+    100756: papel_base_azul1
+    100758: papel_base_azul2
+    100760: papel_base_azul3
+    100762: papel_base_azul4
+    100764: papel_base_azul5
+    100766: papel_base_azul6
+    100768: papel_base_morado2
+    100770: papel_base_morado3
+    100772: papel_base_morado4
+    100774: papel_base_morado5
+    100776: papel_base_morado6
+    100778: papel_base_morado7
+    100780: papel_base_morado8
+    100782: papel_base_rosa_02
+    100784: papel_base_rosa_03
+    100786: papel_base_rosa_04
+    100788: papel_base_rosa_05
+    100790: papel_base_rosa_06
+    100792: papel_base_rosa_07
+    100794: papel_calavera_morado
+    100796: papel_calavera_morado1
+    100798: papel_calavera_morado2
+    100800: papel_calavera_morado3
+    100802: papel_calavera_naranja_03
+    100804: papel_calavera_naranja_04
+    100806: papel_calavera_naranja_05
+    100808: papel_calavera_naranja_06
+    100810: papel_calavera_rosa_01
+    100812: papel_calavera_rosa_03
+    100814: papel_calavera_rosa_04
+    100816: papel_dia_naranja_01
+    100818: papel_dia_naranja_02
+    100820: papel_dia_rosa_01
+    100822: papel_dia_rosa_02
+    100824: Papel_picado
+    100826: pCone1
+    100828: pCone2
+    100830: pCone3
+    100832: pCone4
+    100834: pCube1
+    100836: pCube1 1
+    100838: pCube1 2
+    100840: pCube3
+    100842: pCube3 1
+    100844: pCube3 2
+    100846: pCube4
+    100848: pCube4 1
+    100850: pCube4 2
+    100852: pCube5
+    100854: pCube5 1
+    100856: pCube5 2
+    100858: pCube6
+    100860: pCube6 1
+    100862: pCube6 2
+    100864: pCube7
+    100866: pCube7 1
+    100868: pCube7 2
+    100870: Pelo_01
+    100872: petalo_010
+    100874: petalo_011
+    100876: petalo_012
+    100878: petalo_013
+    100880: petalo_014
+    100882: petalo_015
+    100884: petalo_016
+    100886: petalo_017
+    100888: petalo_018
+    100890: petalo_019
+    100892: petalo_02
+    100894: petalo_020
+    100896: petalo_021
+    100898: petalo_03
+    100900: petalo_04
+    100902: petalo_05
+    100904: petalo_06
+    100906: petalo_07
+    100908: petalo_08
+    100910: petalo_09
+    100912: petalos_azules_l_01
+    100914: petalos_azules_r_01
+    100916: TAZA
+    100918: taza_barro_01:chocolate
+    100920: taza_barro_01:Taza_barro_01
+    100922: taza_barro_01:taza_barro_asa
+    100924: VELA
+    100926: VELA1
+    100928: vela1
+    100930: vela1 1
+    100932: vela1 2
+    100934: VELA2
+    100936: VELA3
+    100938: vela:cuerda_vela
+    100940: vela:gotas_vela_01
+    100942: vela:gotas_vela_02
+    100944: vela:gotas_vela_03
+    100946: vela:gotas_vela_04
+    100948: vela:gotas_vela_05
+    100950: vela:pCube1
+    100952: vela:pCube3
+    100954: vela:pCube4
+    100956: vela:pCube5
+    100958: vela:pCube6
+    100960: vela:pCube7
+    100962: vela:vela1
+    400000: betun1
+    400002: betun_arriba_l_01
+    400004: betun_arriba_l_02
+    400006: Betun_circulo_ojo_l_01
+    400008: Betun_circulo_ojo_l_02
+    400010: betun_mandibila_l_01
+    400012: betun_mandibila_l_02
+    400014: bigote_l_01
+    400016: bigote_l_02
+    400018: bolita_nariz
+    400020: bolita_nariz1
+    400022: bolita_nariz10
+    400024: bolita_nariz11
+    400026: bolita_nariz12
+    400028: bolita_nariz13
+    400030: bolita_nariz14
+    400032: bolita_nariz15
+    400034: bolita_nariz16
+    400036: bolita_nariz17
+    400038: bolita_nariz18
+    400040: bolita_nariz19
+    400042: bolita_nariz2
+    400044: bolita_nariz20
+    400046: bolita_nariz21
+    400048: bolita_nariz22
+    400050: bolita_nariz23
+    400052: bolita_nariz24
+    400054: bolita_nariz25
+    400056: bolita_nariz3
+    400058: bolita_nariz4
+    400060: bolita_nariz5
+    400062: bolita_nariz6
+    400064: bolita_nariz7
+    400066: bolita_nariz8
+    400068: bolita_nariz9
+    400070: bolita_ojo_01
+    400072: bolita_ojo_010
+    400074: bolita_ojo_02
+    400076: bolita_ojo_03
+    400078: bolita_ojo_04
+    400080: bolita_ojo_05
+    400082: bolita_ojo_06
+    400084: bolita_ojo_07
+    400086: bolita_ojo_08
+    400088: bolita_ojo_09
+    400090: bolita_ojo_r_01
+    400092: bolita_ojo_r_010
+    400094: bolita_ojo_r_02
+    400096: bolita_ojo_r_03
+    400098: bolita_ojo_r_04
+    400100: bolita_ojo_r_05
+    400102: bolita_ojo_r_06
+    400104: bolita_ojo_r_07
+    400106: bolita_ojo_r_08
+    400108: bolita_ojo_r_09
+    400110: bolita_petalo
+    400112: bolita_petalo 1
+    400114: bolita_petalo1
+    400116: bolita_petalo1 1
+    400118: bolita_petalo2
+    400120: bolita_petalo2 1
+    400122: bolita_petalo3
+    400124: bolita_petalo3 1
+    400126: bolita_petalo4
+    400128: bolita_petalo4 1
+    400130: bolita_petalo5
+    400132: bolita_petalo5 1
+    400134: bolita_petalo6
+    400136: bolita_petalo6 1
+    400138: bolita_petalo7
+    400140: bolita_petalo7 1
+    400142: bolita_petalo8
+    400144: bolita_petalo8 1
+    400146: bolita_petalo9
+    400148: bolita_petalo9 1
+    400150: bolita_petalos_azules_l_01
+    400152: bolita_petalos_azules_l_02
+    400154: Bolitas_nariz
+    400156: calavera_02_MUJER_02:betun
+    400158: calavera_02_MUJER_02:betun_bolitas_ojo_l_01
+    400160: calavera_02_MUJER_02:betun_bolitas_ojo_r_01
+    400162: calavera_02_MUJER_02:betun_ojos_l_01
+    400164: calavera_02_MUJER_02:betun_ojos_l_01 1
+    400166: calavera_02_MUJER_02:betun_ojos_l_010
+    400168: calavera_02_MUJER_02:betun_ojos_l_010 1
+    400170: calavera_02_MUJER_02:betun_ojos_l_011
+    400172: calavera_02_MUJER_02:betun_ojos_l_011 1
+    400174: calavera_02_MUJER_02:betun_ojos_l_012
+    400176: calavera_02_MUJER_02:betun_ojos_l_012 1
+    400178: calavera_02_MUJER_02:betun_ojos_l_013
+    400180: calavera_02_MUJER_02:betun_ojos_l_013 1
+    400182: calavera_02_MUJER_02:betun_ojos_l_014
+    400184: calavera_02_MUJER_02:betun_ojos_l_014 1
+    400186: calavera_02_MUJER_02:betun_ojos_l_015
+    400188: calavera_02_MUJER_02:betun_ojos_l_016
+    400190: calavera_02_MUJER_02:betun_ojos_l_017
+    400192: calavera_02_MUJER_02:betun_ojos_l_018
+    400194: calavera_02_MUJER_02:betun_ojos_l_019
+    400196: calavera_02_MUJER_02:betun_ojos_l_02
+    400198: calavera_02_MUJER_02:betun_ojos_l_02 1
+    400200: calavera_02_MUJER_02:betun_ojos_l_020
+    400202: calavera_02_MUJER_02:betun_ojos_l_021
+    400204: calavera_02_MUJER_02:betun_ojos_l_022
+    400206: calavera_02_MUJER_02:betun_ojos_l_023
+    400208: calavera_02_MUJER_02:betun_ojos_l_024
+    400210: calavera_02_MUJER_02:betun_ojos_l_03
+    400212: calavera_02_MUJER_02:betun_ojos_l_03 1
+    400214: calavera_02_MUJER_02:betun_ojos_l_04
+    400216: calavera_02_MUJER_02:betun_ojos_l_04 1
+    400218: calavera_02_MUJER_02:betun_ojos_l_05
+    400220: calavera_02_MUJER_02:betun_ojos_l_05 1
+    400222: calavera_02_MUJER_02:betun_ojos_l_06
+    400224: calavera_02_MUJER_02:betun_ojos_l_06 1
+    400226: calavera_02_MUJER_02:betun_ojos_l_07
+    400228: calavera_02_MUJER_02:betun_ojos_l_07 1
+    400230: calavera_02_MUJER_02:betun_ojos_l_08
+    400232: calavera_02_MUJER_02:betun_ojos_l_08 1
+    400234: calavera_02_MUJER_02:betun_ojos_l_09
+    400236: calavera_02_MUJER_02:betun_ojos_l_09 1
+    400238: "calavera_02_MUJER_02:betun_pesta\xF1as_l_01"
+    400240: "calavera_02_MUJER_02:betun_pesta\xF1as_l_02"
+    400242: calavera_02_MUJER_02:Craneo_01_MUJER
+    400244: calavera_02_MUJER_02:Craneo_superior_base_01
+    400246: calavera_02_MUJER_02:diente_abajo_01
+    400248: calavera_02_MUJER_02:diente_abajo_01 1
+    400250: calavera_02_MUJER_02:diente_abajo_010
+    400252: calavera_02_MUJER_02:diente_abajo_010 1
+    400254: calavera_02_MUJER_02:diente_abajo_011
+    400256: calavera_02_MUJER_02:diente_abajo_011 1
+    400258: calavera_02_MUJER_02:diente_abajo_02
+    400260: calavera_02_MUJER_02:diente_abajo_02 1
+    400262: calavera_02_MUJER_02:diente_arriba_01
+    400264: calavera_02_MUJER_02:diente_arriba_01 1
+    400266: calavera_02_MUJER_02:diente_arriba_03
+    400268: calavera_02_MUJER_02:diente_arriba_03 1
+    400270: calavera_02_MUJER_02:diente_arriba_04
+    400272: calavera_02_MUJER_02:diente_arriba_04 1
+    400274: calavera_02_MUJER_02:diente_arriba_05
+    400276: calavera_02_MUJER_02:diente_arriba_05 1
+    400278: calavera_02_MUJER_02:diente_arriba_06
+    400280: calavera_02_MUJER_02:diente_arriba_06 1
+    400282: calavera_02_MUJER_02:diente_arriba_07
+    400284: calavera_02_MUJER_02:diente_arriba_07 1
+    400286: calavera_02_MUJER_02:diente_arriba_08
+    400288: calavera_02_MUJER_02:diente_arriba_08 1
+    400290: calavera_02_MUJER_02:diente_arriba_09
+    400292: calavera_02_MUJER_02:diente_arriba_09 1
+    400294: calavera_02_MUJER_02:dientes
+    400296: calavera_02_MUJER_02:dientes_arriba_01
+    400298: calavera_02_MUJER_02:dientes_arriba_02
+    400300: calavera_02_MUJER_02:grupo_dientes_abajo_l_01
+    400302: calavera_02_MUJER_02:grupo_dientes_abajo_l_02
+    400304: calavera_02_MUJER_02:mandibula
+    400306: calavera_02_MUJER_02:mandibula1
+    400308: calavera_02_MUJER_02:muela_abajo_l_01
+    400310: calavera_02_MUJER_02:muela_abajo_l_01 1
+    400312: calavera_02_MUJER_02:muela_abajo_l_02
+    400314: calavera_02_MUJER_02:muela_abajo_l_02 1
+    400316: calavera_02_MUJER_02:muela_abajo_l_03
+    400318: calavera_02_MUJER_02:muela_abajo_l_03 1
+    400320: calavera_02_MUJER_02:muela_abajo_l_04
+    400322: calavera_02_MUJER_02:muela_abajo_l_04 1
+    400324: calavera_02_MUJER_02:Ojo_l_01
+    400326: calavera_02_MUJER_02:ojo_r_01
+    400328: "calavera_02_MUJER_02:pESTA\xD1AS"
+    400330: "calavera_02_MUJER_02:pesta\xF1a_01_l_01"
+    400332: "calavera_02_MUJER_02:pesta\xF1a_01_l_01 1"
+    400334: "calavera_02_MUJER_02:pesta\xF1a_01_l_02"
+    400336: "calavera_02_MUJER_02:pesta\xF1a_01_l_02 1"
+    400338: "calavera_02_MUJER_02:pesta\xF1a_01_l_03"
+    400340: "calavera_02_MUJER_02:pesta\xF1a_01_l_03 1"
+    400342: "calavera_02_MUJER_02:pesta\xF1a_01_l_04"
+    400344: "calavera_02_MUJER_02:pesta\xF1a_01_l_04 1"
+    400346: calavera_02_MUJER_02:rosa_01
+    400348: calavera_02_MUJER_02:rosa_010
+    400350: calavera_02_MUJER_02:rosa_011
+    400352: calavera_02_MUJER_02:rosa_012
+    400354: calavera_02_MUJER_02:rosa_013
+    400356: calavera_02_MUJER_02:rosa_014
+    400358: calavera_02_MUJER_02:rosa_015
+    400360: calavera_02_MUJER_02:rosa_016
+    400362: calavera_02_MUJER_02:rosa_017
+    400364: calavera_02_MUJER_02:rosa_02
+    400366: calavera_02_MUJER_02:rosa_03
+    400368: calavera_02_MUJER_02:rosa_04
+    400370: calavera_02_MUJER_02:rosa_05
+    400372: calavera_02_MUJER_02:rosa_06
+    400374: calavera_02_MUJER_02:rosa_07
+    400376: calavera_02_MUJER_02:rosa_08
+    400378: calavera_02_MUJER_02:rosa_09
+    400380: calavera_02_MUJER_02:rosas
+    400382: CALAVERA_06_CHOCOLATE:Betun
+    400384: CALAVERA_06_CHOCOLATE:betun_ceja_r_01
+    400386: CALAVERA_06_CHOCOLATE:betun_ceja_r_02
+    400388: CALAVERA_06_CHOCOLATE:Betun_lagrima_l_01
+    400390: CALAVERA_06_CHOCOLATE:Betun_lagrima_r_01
+    400392: CALAVERA_06_CHOCOLATE:Betun_pelo_r_010
+    400394: CALAVERA_06_CHOCOLATE:Betun_pelo_r_011
+    400396: CALAVERA_06_CHOCOLATE:Betun_pelo_r_03
+    400398: CALAVERA_06_CHOCOLATE:Betun_pelo_r_04
+    400400: CALAVERA_06_CHOCOLATE:Betun_pelo_r_05
+    400402: CALAVERA_06_CHOCOLATE:Betun_pelo_r_06
+    400404: CALAVERA_06_CHOCOLATE:Betun_pelo_r_07
+    400406: CALAVERA_06_CHOCOLATE:Betun_pelo_r_08
+    400408: CALAVERA_06_CHOCOLATE:Betun_pelo_r_09
+    400410: CALAVERA_06_CHOCOLATE:Craneo_superior_base_01
+    400412: CALAVERA_06_CHOCOLATE:diente_abajo_01
+    400414: CALAVERA_06_CHOCOLATE:diente_abajo_01 1
+    400416: CALAVERA_06_CHOCOLATE:diente_abajo_010
+    400418: CALAVERA_06_CHOCOLATE:diente_abajo_010 1
+    400420: CALAVERA_06_CHOCOLATE:diente_abajo_011
+    400422: CALAVERA_06_CHOCOLATE:diente_abajo_011 1
+    400424: CALAVERA_06_CHOCOLATE:diente_abajo_02
+    400426: CALAVERA_06_CHOCOLATE:diente_abajo_02 1
+    400428: CALAVERA_06_CHOCOLATE:diente_arriba_01
+    400430: CALAVERA_06_CHOCOLATE:diente_arriba_01 1
+    400432: CALAVERA_06_CHOCOLATE:diente_arriba_03
+    400434: CALAVERA_06_CHOCOLATE:diente_arriba_03 1
+    400436: CALAVERA_06_CHOCOLATE:diente_arriba_04
+    400438: CALAVERA_06_CHOCOLATE:diente_arriba_04 1
+    400440: CALAVERA_06_CHOCOLATE:diente_arriba_05
+    400442: CALAVERA_06_CHOCOLATE:diente_arriba_05 1
+    400444: CALAVERA_06_CHOCOLATE:diente_arriba_06
+    400446: CALAVERA_06_CHOCOLATE:diente_arriba_06 1
+    400448: CALAVERA_06_CHOCOLATE:diente_arriba_07
+    400450: CALAVERA_06_CHOCOLATE:diente_arriba_07 1
+    400452: CALAVERA_06_CHOCOLATE:diente_arriba_08
+    400454: CALAVERA_06_CHOCOLATE:diente_arriba_08 1
+    400456: CALAVERA_06_CHOCOLATE:diente_arriba_09
+    400458: CALAVERA_06_CHOCOLATE:diente_arriba_09 1
+    400460: CALAVERA_06_CHOCOLATE:dientes
+    400462: CALAVERA_06_CHOCOLATE:dientes_arriba_01
+    400464: CALAVERA_06_CHOCOLATE:dientes_arriba_02
+    400466: CALAVERA_06_CHOCOLATE:grupo_dientes_abajo_l_01
+    400468: CALAVERA_06_CHOCOLATE:grupo_dientes_abajo_l_02
+    400470: CALAVERA_06_CHOCOLATE:Lemgua
+    400472: CALAVERA_06_CHOCOLATE:mandibula
+    400474: CALAVERA_06_CHOCOLATE:mandibula1
+    400476: CALAVERA_06_CHOCOLATE:muela_abajo_l_01
+    400478: CALAVERA_06_CHOCOLATE:muela_abajo_l_01 1
+    400480: CALAVERA_06_CHOCOLATE:muela_abajo_l_02
+    400482: CALAVERA_06_CHOCOLATE:muela_abajo_l_02 1
+    400484: CALAVERA_06_CHOCOLATE:muela_abajo_l_03
+    400486: CALAVERA_06_CHOCOLATE:muela_abajo_l_03 1
+    400488: CALAVERA_06_CHOCOLATE:muela_abajo_l_04
+    400490: CALAVERA_06_CHOCOLATE:muela_abajo_l_04 1
+    400492: CALAVERA_06_CHOCOLATE:Ojo_l__chocolate_01
+    400494: CALAVERA_06_CHOCOLATE:Ojo_R__chocolate_02
+    400496: CALAVERA_06_CHOCOLATE:OJOS_CHOCOLATE
+    400498: //RootNode
+    400500: ceja_bola_l_01
+    400502: ceja_bola_l_01 1
+    400504: ceja_bola_l_02
+    400506: ceja_bola_l_02 1
+    400508: ceja_bola_l_03
+    400510: ceja_bola_l_03 1
+    400512: ceja_bola_l_04
+    400514: ceja_bola_l_04 1
+    400516: ceja_bola_l_05
+    400518: ceja_bola_l_05 1
+    400520: ceja_bola_l_06
+    400522: ceja_bola_l_06 1
+    400524: ceja_bola_l_07
+    400526: ceja_bola_l_07 1
+    400528: ceja_l_01
+    400530: ceja_l_02
+    400532: CENPASUCHIL_amarillo
+    400534: CENPASUCHIL_morado_rojizo
+    400536: CENPASUCHL_AMARILLO_Naranjoso
+    400538: CENPASUCHL_AMARILLO_Naranjoso1
+    400540: CENPASUCHL_AMARILLO_Naranjoso2
+    400542: CENPASUCHL_AMARILLO_Naranjoso3
+    400544: CENPASUCHL_AMARILLO_Naranjoso4
+    400546: CENPASUCHL_AMARILLO_Naranjoso5
+    400548: CENPASUCHL_AMARILLO_Naranjoso6
+    400550: CHOCOLATE1
+    400552: cosoza
+    400554: cosoza 1
+    400556: cosoza1
+    400558: cosoza1 1
+    400560: cosoza2
+    400562: cosoza2 1
+    400564: cosoza3
+    400566: cosoza3 1
+    400568: cosoza4
+    400570: cosoza4 1
+    400572: cosoza6
+    400574: cosoza6 1
+    400576: cosoza7
+    400578: cosoza7 1
+    400580: Craneo_01
+    400582: Craneo_superior_base_01
+    400584: CUADRO
+    400586: cuadro:cristal
+    400588: cuadro:ramka01
+    400590: cuadro:Shape01
+    400592: cuerda_vela
+    400594: cuerda_vela 1
+    400596: cuerda_vela 2
+    400598: diente_abajo_01
+    400600: diente_abajo_01 1
+    400602: diente_abajo_010
+    400604: diente_abajo_010 1
+    400606: diente_abajo_011
+    400608: diente_abajo_011 1
+    400610: diente_abajo_02
+    400612: diente_abajo_02 1
+    400614: diente_arriba_01
+    400616: diente_arriba_01 1
+    400618: diente_arriba_03
+    400620: diente_arriba_03 1
+    400622: diente_arriba_04
+    400624: diente_arriba_04 1
+    400626: diente_arriba_05
+    400628: diente_arriba_05 1
+    400630: diente_arriba_06
+    400632: diente_arriba_06 1
+    400634: diente_arriba_07
+    400636: diente_arriba_07 1
+    400638: diente_arriba_08
+    400640: diente_arriba_08 1
+    400642: diente_arriba_09
+    400644: diente_arriba_09 1
+    400646: dientes
+    400648: dientes_arriba_01
+    400650: dientes_arriba_02
+    400652: FLORES_CEPASUCHILT_01:CENPASUCHIL_amarillo
+    400654: FLORES_CEPASUCHILT_01:CENPASUCHIL_morado_rojizo
+    400656: FLORES_CEPASUCHILT_01:CENPASUCHL_AMARILLO_Naranjoso
+    400658: FLORES_CEPASUCHILT_01:flores_cempasuchilt
+    400660: gotas_vela_01
+    400662: gotas_vela_01 1
+    400664: gotas_vela_01 2
+    400666: gotas_vela_02
+    400668: gotas_vela_02 1
+    400670: gotas_vela_02 2
+    400672: gotas_vela_03
+    400674: gotas_vela_03 1
+    400676: gotas_vela_03 2
+    400678: gotas_vela_04
+    400680: gotas_vela_04 1
+    400682: gotas_vela_04 2
+    400684: gotas_vela_05
+    400686: gotas_vela_05 1
+    400688: gotas_vela_05 2
+    400690: grupo_dientes_abajo_l_01
+    400692: grupo_dientes_abajo_l_02
+    400694: luces:Luces
+    400696: luces:pasted__group
+    400698: mandibula
+    400700: mandibula1
+    400702: Mantel_blanco
+    400704: Mantel_blanco_02
+    400706: Mesa
+    400708: Mesa_altar_01
+    400710: Mesa_altar_03
+    400712: muela_abajo_l_01
+    400714: muela_abajo_l_01 1
+    400716: muela_abajo_l_02
+    400718: muela_abajo_l_02 1
+    400720: muela_abajo_l_03
+    400722: muela_abajo_l_03 1
+    400724: muela_abajo_l_04
+    400726: muela_abajo_l_04 1
+    400728: mujer
+    400730: Ojo_l_01
+    400732: ojo_r_01
+    400734: ojos
+    400736: PAN
+    400738: pan_muerto:Hueso10
+    400740: pan_muerto:Hueso11
+    400742: pan_muerto:Hueso2
+    400744: pan_muerto:Hueso7
+    400746: pan_muerto:Hueso8
+    400748: pan_muerto:Hueso9
+    400750: pan_muerto:pan_muerto_base
+    400752: pan_muerto:pan_muerto_punta
+    400754: papel_base_azul
+    400756: papel_base_azul1
+    400758: papel_base_azul2
+    400760: papel_base_azul3
+    400762: papel_base_azul4
+    400764: papel_base_azul5
+    400766: papel_base_azul6
+    400768: papel_base_morado2
+    400770: papel_base_morado3
+    400772: papel_base_morado4
+    400774: papel_base_morado5
+    400776: papel_base_morado6
+    400778: papel_base_morado7
+    400780: papel_base_morado8
+    400782: papel_base_rosa_02
+    400784: papel_base_rosa_03
+    400786: papel_base_rosa_04
+    400788: papel_base_rosa_05
+    400790: papel_base_rosa_06
+    400792: papel_base_rosa_07
+    400794: papel_calavera_morado
+    400796: papel_calavera_morado1
+    400798: papel_calavera_morado2
+    400800: papel_calavera_morado3
+    400802: papel_calavera_naranja_03
+    400804: papel_calavera_naranja_04
+    400806: papel_calavera_naranja_05
+    400808: papel_calavera_naranja_06
+    400810: papel_calavera_rosa_01
+    400812: papel_calavera_rosa_03
+    400814: papel_calavera_rosa_04
+    400816: papel_dia_naranja_01
+    400818: papel_dia_naranja_02
+    400820: papel_dia_rosa_01
+    400822: papel_dia_rosa_02
+    400824: Papel_picado
+    400826: pCone1
+    400828: pCone2
+    400830: pCone3
+    400832: pCone4
+    400834: pCube1
+    400836: pCube1 1
+    400838: pCube1 2
+    400840: pCube3
+    400842: pCube3 1
+    400844: pCube3 2
+    400846: pCube4
+    400848: pCube4 1
+    400850: pCube4 2
+    400852: pCube5
+    400854: pCube5 1
+    400856: pCube5 2
+    400858: pCube6
+    400860: pCube6 1
+    400862: pCube6 2
+    400864: pCube7
+    400866: pCube7 1
+    400868: pCube7 2
+    400870: Pelo_01
+    400872: petalo_010
+    400874: petalo_011
+    400876: petalo_012
+    400878: petalo_013
+    400880: petalo_014
+    400882: petalo_015
+    400884: petalo_016
+    400886: petalo_017
+    400888: petalo_018
+    400890: petalo_019
+    400892: petalo_02
+    400894: petalo_020
+    400896: petalo_021
+    400898: petalo_03
+    400900: petalo_04
+    400902: petalo_05
+    400904: petalo_06
+    400906: petalo_07
+    400908: petalo_08
+    400910: petalo_09
+    400912: petalos_azules_l_01
+    400914: petalos_azules_r_01
+    400916: TAZA
+    400918: taza_barro_01:chocolate
+    400920: taza_barro_01:Taza_barro_01
+    400922: taza_barro_01:taza_barro_asa
+    400924: VELA
+    400926: VELA1
+    400928: vela1
+    400930: vela1 1
+    400932: vela1 2
+    400934: VELA2
+    400936: VELA3
+    400938: vela:cuerda_vela
+    400940: vela:gotas_vela_01
+    400942: vela:gotas_vela_02
+    400944: vela:gotas_vela_03
+    400946: vela:gotas_vela_04
+    400948: vela:gotas_vela_05
+    400950: vela:pCube1
+    400952: vela:pCube3
+    400954: vela:pCube4
+    400956: vela:pCube5
+    400958: vela:pCube6
+    400960: vela:pCube7
+    400962: vela:vela1
+    2100000: azucar
+    2100002: ojos_calavera_azules
+    2100004: dientes_naranjosos_y_buton
+    2100006: ojos_amarillos
+    2100008: betun_azuladozo_lambert
+    2100010: muyjer_rosa
+    2100012: _Lambertbetun
+    2100014: mesa_altar
+    2100016: mantel_blanco
+    2100018: Papel_picado_01
+    2100020: papel_picado_dia_naranja_01
+    2100022: PAPEL_CALAVERA
+    2100024: papel_calavera_rosa_02
+    2100026: papel_base_azul_01
+    2100028: papel_base_rosa1
+    2100030: papel_base_naranja_01
+    2100032: papel_calavera_naranja_01
+    2100034: _naranja
+    2100036: mujer_morado
+    2100038: blinn5
+    2100040: mujer_ojos
+    2100042: Default_Material
+    2100044: dientes_rojos
+    2100046: _chocolate_calavera
+    2100048: _ojos__verdes_chocolate
+    2100050: calavera_ojos_rojos
+    2100052: betun_amarilloso_lambert
+    2100054: taza_barro_01_taza_barro
+    2100056: taza_barro_01_chocolate1
+    2100058: lambert1
+    2100060: cuadro_marco_diffuse
+    2100062: cristal
+    2100064: pan_muerto1
+    2100066: vela_01
+    2100068: sempashichul_naranjoso
+    2100070: cempasichul_amarillo
+    2100072: cempasuchil_rojo
+    2100074: fuegoso
+    2300000: Betun_circulo_ojo_l_01
+    2300002: Betun_circulo_ojo_l_02
+    2300004: bigote_l_01
+    2300006: bigote_l_02
+    2300008: bolita_nariz
+    2300010: bolita_nariz1
+    2300012: bolita_nariz10
+    2300014: bolita_nariz11
+    2300016: bolita_nariz12
+    2300018: bolita_nariz13
+    2300020: bolita_nariz14
+    2300022: bolita_nariz15
+    2300024: bolita_nariz16
+    2300026: bolita_nariz17
+    2300028: bolita_nariz18
+    2300030: bolita_nariz19
+    2300032: bolita_nariz2
+    2300034: bolita_nariz20
+    2300036: bolita_nariz21
+    2300038: bolita_nariz22
+    2300040: bolita_nariz23
+    2300042: bolita_nariz24
+    2300044: bolita_nariz25
+    2300046: bolita_nariz3
+    2300048: bolita_nariz4
+    2300050: bolita_nariz5
+    2300052: bolita_nariz6
+    2300054: bolita_nariz7
+    2300056: bolita_nariz8
+    2300058: bolita_nariz9
+    2300060: bolita_ojo_01
+    2300062: bolita_ojo_010
+    2300064: bolita_ojo_02
+    2300066: bolita_ojo_03
+    2300068: bolita_ojo_04
+    2300070: bolita_ojo_05
+    2300072: bolita_ojo_06
+    2300074: bolita_ojo_07
+    2300076: bolita_ojo_08
+    2300078: bolita_ojo_09
+    2300080: bolita_ojo_r_01
+    2300082: bolita_ojo_r_010
+    2300084: bolita_ojo_r_02
+    2300086: bolita_ojo_r_03
+    2300088: bolita_ojo_r_04
+    2300090: bolita_ojo_r_05
+    2300092: bolita_ojo_r_06
+    2300094: bolita_ojo_r_07
+    2300096: bolita_ojo_r_08
+    2300098: bolita_ojo_r_09
+    2300100: bolita_petalo
+    2300102: bolita_petalo 1
+    2300104: bolita_petalo1
+    2300106: bolita_petalo1 1
+    2300108: bolita_petalo2
+    2300110: bolita_petalo2 1
+    2300112: bolita_petalo3
+    2300114: bolita_petalo3 1
+    2300116: bolita_petalo4
+    2300118: bolita_petalo4 1
+    2300120: bolita_petalo5
+    2300122: bolita_petalo5 1
+    2300124: bolita_petalo6
+    2300126: bolita_petalo6 1
+    2300128: bolita_petalo7
+    2300130: bolita_petalo7 1
+    2300132: bolita_petalo8
+    2300134: bolita_petalo8 1
+    2300136: bolita_petalo9
+    2300138: bolita_petalo9 1
+    2300140: calavera_02_MUJER_02:betun_ojos_l_01
+    2300142: calavera_02_MUJER_02:betun_ojos_l_01 1
+    2300144: calavera_02_MUJER_02:betun_ojos_l_010
+    2300146: calavera_02_MUJER_02:betun_ojos_l_010 1
+    2300148: calavera_02_MUJER_02:betun_ojos_l_011
+    2300150: calavera_02_MUJER_02:betun_ojos_l_011 1
+    2300152: calavera_02_MUJER_02:betun_ojos_l_012
+    2300154: calavera_02_MUJER_02:betun_ojos_l_012 1
+    2300156: calavera_02_MUJER_02:betun_ojos_l_013
+    2300158: calavera_02_MUJER_02:betun_ojos_l_013 1
+    2300160: calavera_02_MUJER_02:betun_ojos_l_014
+    2300162: calavera_02_MUJER_02:betun_ojos_l_014 1
+    2300164: calavera_02_MUJER_02:betun_ojos_l_015
+    2300166: calavera_02_MUJER_02:betun_ojos_l_016
+    2300168: calavera_02_MUJER_02:betun_ojos_l_017
+    2300170: calavera_02_MUJER_02:betun_ojos_l_018
+    2300172: calavera_02_MUJER_02:betun_ojos_l_019
+    2300174: calavera_02_MUJER_02:betun_ojos_l_02
+    2300176: calavera_02_MUJER_02:betun_ojos_l_02 1
+    2300178: calavera_02_MUJER_02:betun_ojos_l_020
+    2300180: calavera_02_MUJER_02:betun_ojos_l_021
+    2300182: calavera_02_MUJER_02:betun_ojos_l_022
+    2300184: calavera_02_MUJER_02:betun_ojos_l_023
+    2300186: calavera_02_MUJER_02:betun_ojos_l_024
+    2300188: calavera_02_MUJER_02:betun_ojos_l_03
+    2300190: calavera_02_MUJER_02:betun_ojos_l_03 1
+    2300192: calavera_02_MUJER_02:betun_ojos_l_04
+    2300194: calavera_02_MUJER_02:betun_ojos_l_04 1
+    2300196: calavera_02_MUJER_02:betun_ojos_l_05
+    2300198: calavera_02_MUJER_02:betun_ojos_l_05 1
+    2300200: calavera_02_MUJER_02:betun_ojos_l_06
+    2300202: calavera_02_MUJER_02:betun_ojos_l_06 1
+    2300204: calavera_02_MUJER_02:betun_ojos_l_07
+    2300206: calavera_02_MUJER_02:betun_ojos_l_07 1
+    2300208: calavera_02_MUJER_02:betun_ojos_l_08
+    2300210: calavera_02_MUJER_02:betun_ojos_l_08 1
+    2300212: calavera_02_MUJER_02:betun_ojos_l_09
+    2300214: calavera_02_MUJER_02:betun_ojos_l_09 1
+    2300216: calavera_02_MUJER_02:Craneo_superior_base_01
+    2300218: calavera_02_MUJER_02:diente_abajo_01
+    2300220: calavera_02_MUJER_02:diente_abajo_01 1
+    2300222: calavera_02_MUJER_02:diente_abajo_010
+    2300224: calavera_02_MUJER_02:diente_abajo_010 1
+    2300226: calavera_02_MUJER_02:diente_abajo_011
+    2300228: calavera_02_MUJER_02:diente_abajo_011 1
+    2300230: calavera_02_MUJER_02:diente_abajo_02
+    2300232: calavera_02_MUJER_02:diente_abajo_02 1
+    2300234: calavera_02_MUJER_02:diente_arriba_01
+    2300236: calavera_02_MUJER_02:diente_arriba_01 1
+    2300238: calavera_02_MUJER_02:diente_arriba_03
+    2300240: calavera_02_MUJER_02:diente_arriba_03 1
+    2300242: calavera_02_MUJER_02:diente_arriba_04
+    2300244: calavera_02_MUJER_02:diente_arriba_04 1
+    2300246: calavera_02_MUJER_02:diente_arriba_05
+    2300248: calavera_02_MUJER_02:diente_arriba_05 1
+    2300250: calavera_02_MUJER_02:diente_arriba_06
+    2300252: calavera_02_MUJER_02:diente_arriba_06 1
+    2300254: calavera_02_MUJER_02:diente_arriba_07
+    2300256: calavera_02_MUJER_02:diente_arriba_07 1
+    2300258: calavera_02_MUJER_02:diente_arriba_08
+    2300260: calavera_02_MUJER_02:diente_arriba_08 1
+    2300262: calavera_02_MUJER_02:diente_arriba_09
+    2300264: calavera_02_MUJER_02:diente_arriba_09 1
+    2300266: calavera_02_MUJER_02:mandibula
+    2300268: calavera_02_MUJER_02:muela_abajo_l_01
+    2300270: calavera_02_MUJER_02:muela_abajo_l_01 1
+    2300272: calavera_02_MUJER_02:muela_abajo_l_02
+    2300274: calavera_02_MUJER_02:muela_abajo_l_02 1
+    2300276: calavera_02_MUJER_02:muela_abajo_l_03
+    2300278: calavera_02_MUJER_02:muela_abajo_l_03 1
+    2300280: calavera_02_MUJER_02:muela_abajo_l_04
+    2300282: calavera_02_MUJER_02:muela_abajo_l_04 1
+    2300284: calavera_02_MUJER_02:Ojo_l_01
+    2300286: calavera_02_MUJER_02:ojo_r_01
+    2300288: "calavera_02_MUJER_02:pESTA\xD1AS"
+    2300290: "calavera_02_MUJER_02:pesta\xF1a_01_l_01"
+    2300292: "calavera_02_MUJER_02:pesta\xF1a_01_l_01 1"
+    2300294: "calavera_02_MUJER_02:pesta\xF1a_01_l_02"
+    2300296: "calavera_02_MUJER_02:pesta\xF1a_01_l_02 1"
+    2300298: "calavera_02_MUJER_02:pesta\xF1a_01_l_03"
+    2300300: "calavera_02_MUJER_02:pesta\xF1a_01_l_03 1"
+    2300302: "calavera_02_MUJER_02:pesta\xF1a_01_l_04"
+    2300304: "calavera_02_MUJER_02:pesta\xF1a_01_l_04 1"
+    2300306: calavera_02_MUJER_02:rosa_01
+    2300308: calavera_02_MUJER_02:rosa_010
+    2300310: calavera_02_MUJER_02:rosa_011
+    2300312: calavera_02_MUJER_02:rosa_012
+    2300314: calavera_02_MUJER_02:rosa_013
+    2300316: calavera_02_MUJER_02:rosa_014
+    2300318: calavera_02_MUJER_02:rosa_015
+    2300320: calavera_02_MUJER_02:rosa_016
+    2300322: calavera_02_MUJER_02:rosa_017
+    2300324: calavera_02_MUJER_02:rosa_02
+    2300326: calavera_02_MUJER_02:rosa_03
+    2300328: calavera_02_MUJER_02:rosa_04
+    2300330: calavera_02_MUJER_02:rosa_05
+    2300332: calavera_02_MUJER_02:rosa_06
+    2300334: calavera_02_MUJER_02:rosa_07
+    2300336: calavera_02_MUJER_02:rosa_08
+    2300338: calavera_02_MUJER_02:rosa_09
+    2300340: CALAVERA_06_CHOCOLATE:betun_ceja_r_01
+    2300342: CALAVERA_06_CHOCOLATE:betun_ceja_r_02
+    2300344: CALAVERA_06_CHOCOLATE:Betun_lagrima_l_01
+    2300346: CALAVERA_06_CHOCOLATE:Betun_lagrima_r_01
+    2300348: CALAVERA_06_CHOCOLATE:Betun_pelo_r_010
+    2300350: CALAVERA_06_CHOCOLATE:Betun_pelo_r_011
+    2300352: CALAVERA_06_CHOCOLATE:Betun_pelo_r_03
+    2300354: CALAVERA_06_CHOCOLATE:Betun_pelo_r_04
+    2300356: CALAVERA_06_CHOCOLATE:Betun_pelo_r_05
+    2300358: CALAVERA_06_CHOCOLATE:Betun_pelo_r_06
+    2300360: CALAVERA_06_CHOCOLATE:Betun_pelo_r_07
+    2300362: CALAVERA_06_CHOCOLATE:Betun_pelo_r_08
+    2300364: CALAVERA_06_CHOCOLATE:Betun_pelo_r_09
+    2300366: CALAVERA_06_CHOCOLATE:Craneo_superior_base_01
+    2300368: CALAVERA_06_CHOCOLATE:diente_abajo_01
+    2300370: CALAVERA_06_CHOCOLATE:diente_abajo_01 1
+    2300372: CALAVERA_06_CHOCOLATE:diente_abajo_010
+    2300374: CALAVERA_06_CHOCOLATE:diente_abajo_010 1
+    2300376: CALAVERA_06_CHOCOLATE:diente_abajo_011
+    2300378: CALAVERA_06_CHOCOLATE:diente_abajo_011 1
+    2300380: CALAVERA_06_CHOCOLATE:diente_abajo_02
+    2300382: CALAVERA_06_CHOCOLATE:diente_abajo_02 1
+    2300384: CALAVERA_06_CHOCOLATE:diente_arriba_01
+    2300386: CALAVERA_06_CHOCOLATE:diente_arriba_01 1
+    2300388: CALAVERA_06_CHOCOLATE:diente_arriba_03
+    2300390: CALAVERA_06_CHOCOLATE:diente_arriba_03 1
+    2300392: CALAVERA_06_CHOCOLATE:diente_arriba_04
+    2300394: CALAVERA_06_CHOCOLATE:diente_arriba_04 1
+    2300396: CALAVERA_06_CHOCOLATE:diente_arriba_05
+    2300398: CALAVERA_06_CHOCOLATE:diente_arriba_05 1
+    2300400: CALAVERA_06_CHOCOLATE:diente_arriba_06
+    2300402: CALAVERA_06_CHOCOLATE:diente_arriba_06 1
+    2300404: CALAVERA_06_CHOCOLATE:diente_arriba_07
+    2300406: CALAVERA_06_CHOCOLATE:diente_arriba_07 1
+    2300408: CALAVERA_06_CHOCOLATE:diente_arriba_08
+    2300410: CALAVERA_06_CHOCOLATE:diente_arriba_08 1
+    2300412: CALAVERA_06_CHOCOLATE:diente_arriba_09
+    2300414: CALAVERA_06_CHOCOLATE:diente_arriba_09 1
+    2300416: CALAVERA_06_CHOCOLATE:Lemgua
+    2300418: CALAVERA_06_CHOCOLATE:mandibula
+    2300420: CALAVERA_06_CHOCOLATE:muela_abajo_l_01
+    2300422: CALAVERA_06_CHOCOLATE:muela_abajo_l_01 1
+    2300424: CALAVERA_06_CHOCOLATE:muela_abajo_l_02
+    2300426: CALAVERA_06_CHOCOLATE:muela_abajo_l_02 1
+    2300428: CALAVERA_06_CHOCOLATE:muela_abajo_l_03
+    2300430: CALAVERA_06_CHOCOLATE:muela_abajo_l_03 1
+    2300432: CALAVERA_06_CHOCOLATE:muela_abajo_l_04
+    2300434: CALAVERA_06_CHOCOLATE:muela_abajo_l_04 1
+    2300436: CALAVERA_06_CHOCOLATE:Ojo_l__chocolate_01
+    2300438: CALAVERA_06_CHOCOLATE:Ojo_R__chocolate_02
+    2300440: ceja_bola_l_01
+    2300442: ceja_bola_l_01 1
+    2300444: ceja_bola_l_02
+    2300446: ceja_bola_l_02 1
+    2300448: ceja_bola_l_03
+    2300450: ceja_bola_l_03 1
+    2300452: ceja_bola_l_04
+    2300454: ceja_bola_l_04 1
+    2300456: ceja_bola_l_05
+    2300458: ceja_bola_l_05 1
+    2300460: ceja_bola_l_06
+    2300462: ceja_bola_l_06 1
+    2300464: ceja_bola_l_07
+    2300466: ceja_bola_l_07 1
+    2300468: CENPASUCHIL_amarillo
+    2300470: CENPASUCHIL_morado_rojizo
+    2300472: CENPASUCHL_AMARILLO_Naranjoso
+    2300474: CENPASUCHL_AMARILLO_Naranjoso1
+    2300476: CENPASUCHL_AMARILLO_Naranjoso2
+    2300478: CENPASUCHL_AMARILLO_Naranjoso3
+    2300480: CENPASUCHL_AMARILLO_Naranjoso4
+    2300482: CENPASUCHL_AMARILLO_Naranjoso5
+    2300484: CENPASUCHL_AMARILLO_Naranjoso6
+    2300486: cosoza
+    2300488: cosoza 1
+    2300490: cosoza1
+    2300492: cosoza1 1
+    2300494: cosoza2
+    2300496: cosoza2 1
+    2300498: cosoza3
+    2300500: cosoza3 1
+    2300502: cosoza4
+    2300504: cosoza4 1
+    2300506: cosoza6
+    2300508: cosoza6 1
+    2300510: cosoza7
+    2300512: cosoza7 1
+    2300514: Craneo_superior_base_01
+    2300516: cuadro:cristal
+    2300518: cuadro:ramka01
+    2300520: cuadro:Shape01
+    2300522: cuerda_vela
+    2300524: cuerda_vela 1
+    2300526: cuerda_vela 2
+    2300528: diente_abajo_01
+    2300530: diente_abajo_01 1
+    2300532: diente_abajo_010
+    2300534: diente_abajo_010 1
+    2300536: diente_abajo_011
+    2300538: diente_abajo_011 1
+    2300540: diente_abajo_02
+    2300542: diente_abajo_02 1
+    2300544: diente_arriba_01
+    2300546: diente_arriba_01 1
+    2300548: diente_arriba_03
+    2300550: diente_arriba_03 1
+    2300552: diente_arriba_04
+    2300554: diente_arriba_04 1
+    2300556: diente_arriba_05
+    2300558: diente_arriba_05 1
+    2300560: diente_arriba_06
+    2300562: diente_arriba_06 1
+    2300564: diente_arriba_07
+    2300566: diente_arriba_07 1
+    2300568: diente_arriba_08
+    2300570: diente_arriba_08 1
+    2300572: diente_arriba_09
+    2300574: diente_arriba_09 1
+    2300576: FLORES_CEPASUCHILT_01:CENPASUCHIL_amarillo
+    2300578: FLORES_CEPASUCHILT_01:CENPASUCHIL_morado_rojizo
+    2300580: FLORES_CEPASUCHILT_01:CENPASUCHL_AMARILLO_Naranjoso
+    2300582: gotas_vela_01
+    2300584: gotas_vela_01 1
+    2300586: gotas_vela_01 2
+    2300588: gotas_vela_02
+    2300590: gotas_vela_02 1
+    2300592: gotas_vela_02 2
+    2300594: gotas_vela_03
+    2300596: gotas_vela_03 1
+    2300598: gotas_vela_03 2
+    2300600: gotas_vela_04
+    2300602: gotas_vela_04 1
+    2300604: gotas_vela_04 2
+    2300606: gotas_vela_05
+    2300608: gotas_vela_05 1
+    2300610: gotas_vela_05 2
+    2300612: mandibula
+    2300614: Mantel_blanco
+    2300616: Mantel_blanco_02
+    2300618: Mesa_altar_01
+    2300620: Mesa_altar_03
+    2300622: muela_abajo_l_01
+    2300624: muela_abajo_l_01 1
+    2300626: muela_abajo_l_02
+    2300628: muela_abajo_l_02 1
+    2300630: muela_abajo_l_03
+    2300632: muela_abajo_l_03 1
+    2300634: muela_abajo_l_04
+    2300636: muela_abajo_l_04 1
+    2300638: Ojo_l_01
+    2300640: ojo_r_01
+    2300642: pan_muerto:Hueso10
+    2300644: pan_muerto:Hueso11
+    2300646: pan_muerto:Hueso2
+    2300648: pan_muerto:Hueso7
+    2300650: pan_muerto:Hueso8
+    2300652: pan_muerto:Hueso9
+    2300654: pan_muerto:pan_muerto_base
+    2300656: pan_muerto:pan_muerto_punta
+    2300658: papel_base_azul
+    2300660: papel_base_azul1
+    2300662: papel_base_azul2
+    2300664: papel_base_azul3
+    2300666: papel_base_azul4
+    2300668: papel_base_azul5
+    2300670: papel_base_azul6
+    2300672: papel_base_morado2
+    2300674: papel_base_morado3
+    2300676: papel_base_morado4
+    2300678: papel_base_morado5
+    2300680: papel_base_morado6
+    2300682: papel_base_morado7
+    2300684: papel_base_morado8
+    2300686: papel_base_rosa_02
+    2300688: papel_base_rosa_03
+    2300690: papel_base_rosa_04
+    2300692: papel_base_rosa_05
+    2300694: papel_base_rosa_06
+    2300696: papel_base_rosa_07
+    2300698: papel_calavera_morado
+    2300700: papel_calavera_morado1
+    2300702: papel_calavera_morado2
+    2300704: papel_calavera_morado3
+    2300706: papel_calavera_naranja_03
+    2300708: papel_calavera_naranja_04
+    2300710: papel_calavera_naranja_05
+    2300712: papel_calavera_naranja_06
+    2300714: papel_calavera_rosa_01
+    2300716: papel_calavera_rosa_03
+    2300718: papel_calavera_rosa_04
+    2300720: papel_dia_naranja_01
+    2300722: papel_dia_naranja_02
+    2300724: papel_dia_rosa_01
+    2300726: papel_dia_rosa_02
+    2300728: pCone1
+    2300730: pCone2
+    2300732: pCone3
+    2300734: pCone4
+    2300736: pCube1
+    2300738: pCube1 1
+    2300740: pCube1 2
+    2300742: pCube3
+    2300744: pCube3 1
+    2300746: pCube3 2
+    2300748: pCube4
+    2300750: pCube4 1
+    2300752: pCube4 2
+    2300754: pCube5
+    2300756: pCube5 1
+    2300758: pCube5 2
+    2300760: pCube6
+    2300762: pCube6 1
+    2300764: pCube6 2
+    2300766: pCube7
+    2300768: pCube7 1
+    2300770: pCube7 2
+    2300772: petalo_010
+    2300774: petalo_011
+    2300776: petalo_012
+    2300778: petalo_013
+    2300780: petalo_014
+    2300782: petalo_015
+    2300784: petalo_016
+    2300786: petalo_017
+    2300788: petalo_018
+    2300790: petalo_019
+    2300792: petalo_02
+    2300794: petalo_020
+    2300796: petalo_021
+    2300798: petalo_03
+    2300800: petalo_04
+    2300802: petalo_05
+    2300804: petalo_06
+    2300806: petalo_07
+    2300808: petalo_08
+    2300810: petalo_09
+    2300812: taza_barro_01:chocolate
+    2300814: taza_barro_01:Taza_barro_01
+    2300816: taza_barro_01:taza_barro_asa
+    2300818: vela1
+    2300820: vela1 1
+    2300822: vela1 2
+    2300824: vela:cuerda_vela
+    2300826: vela:gotas_vela_01
+    2300828: vela:gotas_vela_02
+    2300830: vela:gotas_vela_03
+    2300832: vela:gotas_vela_04
+    2300834: vela:gotas_vela_05
+    2300836: vela:pCube1
+    2300838: vela:pCube3
+    2300840: vela:pCube4
+    2300842: vela:pCube5
+    2300844: vela:pCube6
+    2300846: vela:pCube7
+    2300848: vela:vela1
+    3300000: Betun_circulo_ojo_l_01
+    3300002: Betun_circulo_ojo_l_02
+    3300004: bigote_l_01
+    3300006: bigote_l_02
+    3300008: bolita_nariz
+    3300010: bolita_nariz1
+    3300012: bolita_nariz10
+    3300014: bolita_nariz11
+    3300016: bolita_nariz12
+    3300018: bolita_nariz13
+    3300020: bolita_nariz14
+    3300022: bolita_nariz15
+    3300024: bolita_nariz16
+    3300026: bolita_nariz17
+    3300028: bolita_nariz18
+    3300030: bolita_nariz19
+    3300032: bolita_nariz2
+    3300034: bolita_nariz20
+    3300036: bolita_nariz21
+    3300038: bolita_nariz22
+    3300040: bolita_nariz23
+    3300042: bolita_nariz24
+    3300044: bolita_nariz25
+    3300046: bolita_nariz3
+    3300048: bolita_nariz4
+    3300050: bolita_nariz5
+    3300052: bolita_nariz6
+    3300054: bolita_nariz7
+    3300056: bolita_nariz8
+    3300058: bolita_nariz9
+    3300060: bolita_ojo_01
+    3300062: bolita_ojo_010
+    3300064: bolita_ojo_02
+    3300066: bolita_ojo_03
+    3300068: bolita_ojo_04
+    3300070: bolita_ojo_05
+    3300072: bolita_ojo_06
+    3300074: bolita_ojo_07
+    3300076: bolita_ojo_08
+    3300078: bolita_ojo_09
+    3300080: bolita_ojo_r_01
+    3300082: bolita_ojo_r_010
+    3300084: bolita_ojo_r_02
+    3300086: bolita_ojo_r_03
+    3300088: bolita_ojo_r_04
+    3300090: bolita_ojo_r_05
+    3300092: bolita_ojo_r_06
+    3300094: bolita_ojo_r_07
+    3300096: bolita_ojo_r_08
+    3300098: bolita_ojo_r_09
+    3300100: bolita_petalo
+    3300102: bolita_petalo 1
+    3300104: bolita_petalo1
+    3300106: bolita_petalo1 1
+    3300108: bolita_petalo2
+    3300110: bolita_petalo2 1
+    3300112: bolita_petalo3
+    3300114: bolita_petalo3 1
+    3300116: bolita_petalo4
+    3300118: bolita_petalo4 1
+    3300120: bolita_petalo5
+    3300122: bolita_petalo5 1
+    3300124: bolita_petalo6
+    3300126: bolita_petalo6 1
+    3300128: bolita_petalo7
+    3300130: bolita_petalo7 1
+    3300132: bolita_petalo8
+    3300134: bolita_petalo8 1
+    3300136: bolita_petalo9
+    3300138: bolita_petalo9 1
+    3300140: calavera_02_MUJER_02:betun_ojos_l_01
+    3300142: calavera_02_MUJER_02:betun_ojos_l_01 1
+    3300144: calavera_02_MUJER_02:betun_ojos_l_010
+    3300146: calavera_02_MUJER_02:betun_ojos_l_010 1
+    3300148: calavera_02_MUJER_02:betun_ojos_l_011
+    3300150: calavera_02_MUJER_02:betun_ojos_l_011 1
+    3300152: calavera_02_MUJER_02:betun_ojos_l_012
+    3300154: calavera_02_MUJER_02:betun_ojos_l_012 1
+    3300156: calavera_02_MUJER_02:betun_ojos_l_013
+    3300158: calavera_02_MUJER_02:betun_ojos_l_013 1
+    3300160: calavera_02_MUJER_02:betun_ojos_l_014
+    3300162: calavera_02_MUJER_02:betun_ojos_l_014 1
+    3300164: calavera_02_MUJER_02:betun_ojos_l_015
+    3300166: calavera_02_MUJER_02:betun_ojos_l_016
+    3300168: calavera_02_MUJER_02:betun_ojos_l_017
+    3300170: calavera_02_MUJER_02:betun_ojos_l_018
+    3300172: calavera_02_MUJER_02:betun_ojos_l_019
+    3300174: calavera_02_MUJER_02:betun_ojos_l_02
+    3300176: calavera_02_MUJER_02:betun_ojos_l_02 1
+    3300178: calavera_02_MUJER_02:betun_ojos_l_020
+    3300180: calavera_02_MUJER_02:betun_ojos_l_021
+    3300182: calavera_02_MUJER_02:betun_ojos_l_022
+    3300184: calavera_02_MUJER_02:betun_ojos_l_023
+    3300186: calavera_02_MUJER_02:betun_ojos_l_024
+    3300188: calavera_02_MUJER_02:betun_ojos_l_03
+    3300190: calavera_02_MUJER_02:betun_ojos_l_03 1
+    3300192: calavera_02_MUJER_02:betun_ojos_l_04
+    3300194: calavera_02_MUJER_02:betun_ojos_l_04 1
+    3300196: calavera_02_MUJER_02:betun_ojos_l_05
+    3300198: calavera_02_MUJER_02:betun_ojos_l_05 1
+    3300200: calavera_02_MUJER_02:betun_ojos_l_06
+    3300202: calavera_02_MUJER_02:betun_ojos_l_06 1
+    3300204: calavera_02_MUJER_02:betun_ojos_l_07
+    3300206: calavera_02_MUJER_02:betun_ojos_l_07 1
+    3300208: calavera_02_MUJER_02:betun_ojos_l_08
+    3300210: calavera_02_MUJER_02:betun_ojos_l_08 1
+    3300212: calavera_02_MUJER_02:betun_ojos_l_09
+    3300214: calavera_02_MUJER_02:betun_ojos_l_09 1
+    3300216: calavera_02_MUJER_02:Craneo_superior_base_01
+    3300218: calavera_02_MUJER_02:diente_abajo_01
+    3300220: calavera_02_MUJER_02:diente_abajo_01 1
+    3300222: calavera_02_MUJER_02:diente_abajo_010
+    3300224: calavera_02_MUJER_02:diente_abajo_010 1
+    3300226: calavera_02_MUJER_02:diente_abajo_011
+    3300228: calavera_02_MUJER_02:diente_abajo_011 1
+    3300230: calavera_02_MUJER_02:diente_abajo_02
+    3300232: calavera_02_MUJER_02:diente_abajo_02 1
+    3300234: calavera_02_MUJER_02:diente_arriba_01
+    3300236: calavera_02_MUJER_02:diente_arriba_01 1
+    3300238: calavera_02_MUJER_02:diente_arriba_03
+    3300240: calavera_02_MUJER_02:diente_arriba_03 1
+    3300242: calavera_02_MUJER_02:diente_arriba_04
+    3300244: calavera_02_MUJER_02:diente_arriba_04 1
+    3300246: calavera_02_MUJER_02:diente_arriba_05
+    3300248: calavera_02_MUJER_02:diente_arriba_05 1
+    3300250: calavera_02_MUJER_02:diente_arriba_06
+    3300252: calavera_02_MUJER_02:diente_arriba_06 1
+    3300254: calavera_02_MUJER_02:diente_arriba_07
+    3300256: calavera_02_MUJER_02:diente_arriba_07 1
+    3300258: calavera_02_MUJER_02:diente_arriba_08
+    3300260: calavera_02_MUJER_02:diente_arriba_08 1
+    3300262: calavera_02_MUJER_02:diente_arriba_09
+    3300264: calavera_02_MUJER_02:diente_arriba_09 1
+    3300266: calavera_02_MUJER_02:mandibula
+    3300268: calavera_02_MUJER_02:muela_abajo_l_01
+    3300270: calavera_02_MUJER_02:muela_abajo_l_01 1
+    3300272: calavera_02_MUJER_02:muela_abajo_l_02
+    3300274: calavera_02_MUJER_02:muela_abajo_l_02 1
+    3300276: calavera_02_MUJER_02:muela_abajo_l_03
+    3300278: calavera_02_MUJER_02:muela_abajo_l_03 1
+    3300280: calavera_02_MUJER_02:muela_abajo_l_04
+    3300282: calavera_02_MUJER_02:muela_abajo_l_04 1
+    3300284: calavera_02_MUJER_02:Ojo_l_01
+    3300286: calavera_02_MUJER_02:ojo_r_01
+    3300288: "calavera_02_MUJER_02:pESTA\xD1AS"
+    3300290: "calavera_02_MUJER_02:pesta\xF1a_01_l_01"
+    3300292: "calavera_02_MUJER_02:pesta\xF1a_01_l_01 1"
+    3300294: "calavera_02_MUJER_02:pesta\xF1a_01_l_02"
+    3300296: "calavera_02_MUJER_02:pesta\xF1a_01_l_02 1"
+    3300298: "calavera_02_MUJER_02:pesta\xF1a_01_l_03"
+    3300300: "calavera_02_MUJER_02:pesta\xF1a_01_l_03 1"
+    3300302: "calavera_02_MUJER_02:pesta\xF1a_01_l_04"
+    3300304: "calavera_02_MUJER_02:pesta\xF1a_01_l_04 1"
+    3300306: calavera_02_MUJER_02:rosa_01
+    3300308: calavera_02_MUJER_02:rosa_010
+    3300310: calavera_02_MUJER_02:rosa_011
+    3300312: calavera_02_MUJER_02:rosa_012
+    3300314: calavera_02_MUJER_02:rosa_013
+    3300316: calavera_02_MUJER_02:rosa_014
+    3300318: calavera_02_MUJER_02:rosa_015
+    3300320: calavera_02_MUJER_02:rosa_016
+    3300322: calavera_02_MUJER_02:rosa_017
+    3300324: calavera_02_MUJER_02:rosa_02
+    3300326: calavera_02_MUJER_02:rosa_03
+    3300328: calavera_02_MUJER_02:rosa_04
+    3300330: calavera_02_MUJER_02:rosa_05
+    3300332: calavera_02_MUJER_02:rosa_06
+    3300334: calavera_02_MUJER_02:rosa_07
+    3300336: calavera_02_MUJER_02:rosa_08
+    3300338: calavera_02_MUJER_02:rosa_09
+    3300340: CALAVERA_06_CHOCOLATE:betun_ceja_r_01
+    3300342: CALAVERA_06_CHOCOLATE:betun_ceja_r_02
+    3300344: CALAVERA_06_CHOCOLATE:Betun_lagrima_l_01
+    3300346: CALAVERA_06_CHOCOLATE:Betun_lagrima_r_01
+    3300348: CALAVERA_06_CHOCOLATE:Betun_pelo_r_010
+    3300350: CALAVERA_06_CHOCOLATE:Betun_pelo_r_011
+    3300352: CALAVERA_06_CHOCOLATE:Betun_pelo_r_03
+    3300354: CALAVERA_06_CHOCOLATE:Betun_pelo_r_04
+    3300356: CALAVERA_06_CHOCOLATE:Betun_pelo_r_05
+    3300358: CALAVERA_06_CHOCOLATE:Betun_pelo_r_06
+    3300360: CALAVERA_06_CHOCOLATE:Betun_pelo_r_07
+    3300362: CALAVERA_06_CHOCOLATE:Betun_pelo_r_08
+    3300364: CALAVERA_06_CHOCOLATE:Betun_pelo_r_09
+    3300366: CALAVERA_06_CHOCOLATE:Craneo_superior_base_01
+    3300368: CALAVERA_06_CHOCOLATE:diente_abajo_01
+    3300370: CALAVERA_06_CHOCOLATE:diente_abajo_01 1
+    3300372: CALAVERA_06_CHOCOLATE:diente_abajo_010
+    3300374: CALAVERA_06_CHOCOLATE:diente_abajo_010 1
+    3300376: CALAVERA_06_CHOCOLATE:diente_abajo_011
+    3300378: CALAVERA_06_CHOCOLATE:diente_abajo_011 1
+    3300380: CALAVERA_06_CHOCOLATE:diente_abajo_02
+    3300382: CALAVERA_06_CHOCOLATE:diente_abajo_02 1
+    3300384: CALAVERA_06_CHOCOLATE:diente_arriba_01
+    3300386: CALAVERA_06_CHOCOLATE:diente_arriba_01 1
+    3300388: CALAVERA_06_CHOCOLATE:diente_arriba_03
+    3300390: CALAVERA_06_CHOCOLATE:diente_arriba_03 1
+    3300392: CALAVERA_06_CHOCOLATE:diente_arriba_04
+    3300394: CALAVERA_06_CHOCOLATE:diente_arriba_04 1
+    3300396: CALAVERA_06_CHOCOLATE:diente_arriba_05
+    3300398: CALAVERA_06_CHOCOLATE:diente_arriba_05 1
+    3300400: CALAVERA_06_CHOCOLATE:diente_arriba_06
+    3300402: CALAVERA_06_CHOCOLATE:diente_arriba_06 1
+    3300404: CALAVERA_06_CHOCOLATE:diente_arriba_07
+    3300406: CALAVERA_06_CHOCOLATE:diente_arriba_07 1
+    3300408: CALAVERA_06_CHOCOLATE:diente_arriba_08
+    3300410: CALAVERA_06_CHOCOLATE:diente_arriba_08 1
+    3300412: CALAVERA_06_CHOCOLATE:diente_arriba_09
+    3300414: CALAVERA_06_CHOCOLATE:diente_arriba_09 1
+    3300416: CALAVERA_06_CHOCOLATE:Lemgua
+    3300418: CALAVERA_06_CHOCOLATE:mandibula
+    3300420: CALAVERA_06_CHOCOLATE:muela_abajo_l_01
+    3300422: CALAVERA_06_CHOCOLATE:muela_abajo_l_01 1
+    3300424: CALAVERA_06_CHOCOLATE:muela_abajo_l_02
+    3300426: CALAVERA_06_CHOCOLATE:muela_abajo_l_02 1
+    3300428: CALAVERA_06_CHOCOLATE:muela_abajo_l_03
+    3300430: CALAVERA_06_CHOCOLATE:muela_abajo_l_03 1
+    3300432: CALAVERA_06_CHOCOLATE:muela_abajo_l_04
+    3300434: CALAVERA_06_CHOCOLATE:muela_abajo_l_04 1
+    3300436: CALAVERA_06_CHOCOLATE:Ojo_l__chocolate_01
+    3300438: CALAVERA_06_CHOCOLATE:Ojo_R__chocolate_02
+    3300440: ceja_bola_l_01
+    3300442: ceja_bola_l_01 1
+    3300444: ceja_bola_l_02
+    3300446: ceja_bola_l_02 1
+    3300448: ceja_bola_l_03
+    3300450: ceja_bola_l_03 1
+    3300452: ceja_bola_l_04
+    3300454: ceja_bola_l_04 1
+    3300456: ceja_bola_l_05
+    3300458: ceja_bola_l_05 1
+    3300460: ceja_bola_l_06
+    3300462: ceja_bola_l_06 1
+    3300464: ceja_bola_l_07
+    3300466: ceja_bola_l_07 1
+    3300468: CENPASUCHIL_amarillo
+    3300470: CENPASUCHIL_morado_rojizo
+    3300472: CENPASUCHL_AMARILLO_Naranjoso
+    3300474: CENPASUCHL_AMARILLO_Naranjoso1
+    3300476: CENPASUCHL_AMARILLO_Naranjoso2
+    3300478: CENPASUCHL_AMARILLO_Naranjoso3
+    3300480: CENPASUCHL_AMARILLO_Naranjoso4
+    3300482: CENPASUCHL_AMARILLO_Naranjoso5
+    3300484: CENPASUCHL_AMARILLO_Naranjoso6
+    3300486: cosoza
+    3300488: cosoza 1
+    3300490: cosoza1
+    3300492: cosoza1 1
+    3300494: cosoza2
+    3300496: cosoza2 1
+    3300498: cosoza3
+    3300500: cosoza3 1
+    3300502: cosoza4
+    3300504: cosoza4 1
+    3300506: cosoza6
+    3300508: cosoza6 1
+    3300510: cosoza7
+    3300512: cosoza7 1
+    3300514: Craneo_superior_base_01
+    3300516: cuadro:cristal
+    3300518: cuadro:ramka01
+    3300520: cuadro:Shape01
+    3300522: cuerda_vela
+    3300524: cuerda_vela 1
+    3300526: cuerda_vela 2
+    3300528: diente_abajo_01
+    3300530: diente_abajo_01 1
+    3300532: diente_abajo_010
+    3300534: diente_abajo_010 1
+    3300536: diente_abajo_011
+    3300538: diente_abajo_011 1
+    3300540: diente_abajo_02
+    3300542: diente_abajo_02 1
+    3300544: diente_arriba_01
+    3300546: diente_arriba_01 1
+    3300548: diente_arriba_03
+    3300550: diente_arriba_03 1
+    3300552: diente_arriba_04
+    3300554: diente_arriba_04 1
+    3300556: diente_arriba_05
+    3300558: diente_arriba_05 1
+    3300560: diente_arriba_06
+    3300562: diente_arriba_06 1
+    3300564: diente_arriba_07
+    3300566: diente_arriba_07 1
+    3300568: diente_arriba_08
+    3300570: diente_arriba_08 1
+    3300572: diente_arriba_09
+    3300574: diente_arriba_09 1
+    3300576: FLORES_CEPASUCHILT_01:CENPASUCHIL_amarillo
+    3300578: FLORES_CEPASUCHILT_01:CENPASUCHIL_morado_rojizo
+    3300580: FLORES_CEPASUCHILT_01:CENPASUCHL_AMARILLO_Naranjoso
+    3300582: gotas_vela_01
+    3300584: gotas_vela_01 1
+    3300586: gotas_vela_01 2
+    3300588: gotas_vela_02
+    3300590: gotas_vela_02 1
+    3300592: gotas_vela_02 2
+    3300594: gotas_vela_03
+    3300596: gotas_vela_03 1
+    3300598: gotas_vela_03 2
+    3300600: gotas_vela_04
+    3300602: gotas_vela_04 1
+    3300604: gotas_vela_04 2
+    3300606: gotas_vela_05
+    3300608: gotas_vela_05 1
+    3300610: gotas_vela_05 2
+    3300612: mandibula
+    3300614: Mantel_blanco
+    3300616: Mantel_blanco_02
+    3300618: Mesa_altar_01
+    3300620: Mesa_altar_03
+    3300622: muela_abajo_l_01
+    3300624: muela_abajo_l_01 1
+    3300626: muela_abajo_l_02
+    3300628: muela_abajo_l_02 1
+    3300630: muela_abajo_l_03
+    3300632: muela_abajo_l_03 1
+    3300634: muela_abajo_l_04
+    3300636: muela_abajo_l_04 1
+    3300638: Ojo_l_01
+    3300640: ojo_r_01
+    3300642: pan_muerto:Hueso10
+    3300644: pan_muerto:Hueso11
+    3300646: pan_muerto:Hueso2
+    3300648: pan_muerto:Hueso7
+    3300650: pan_muerto:Hueso8
+    3300652: pan_muerto:Hueso9
+    3300654: pan_muerto:pan_muerto_base
+    3300656: pan_muerto:pan_muerto_punta
+    3300658: papel_base_azul
+    3300660: papel_base_azul1
+    3300662: papel_base_azul2
+    3300664: papel_base_azul3
+    3300666: papel_base_azul4
+    3300668: papel_base_azul5
+    3300670: papel_base_azul6
+    3300672: papel_base_morado2
+    3300674: papel_base_morado3
+    3300676: papel_base_morado4
+    3300678: papel_base_morado5
+    3300680: papel_base_morado6
+    3300682: papel_base_morado7
+    3300684: papel_base_morado8
+    3300686: papel_base_rosa_02
+    3300688: papel_base_rosa_03
+    3300690: papel_base_rosa_04
+    3300692: papel_base_rosa_05
+    3300694: papel_base_rosa_06
+    3300696: papel_base_rosa_07
+    3300698: papel_calavera_morado
+    3300700: papel_calavera_morado1
+    3300702: papel_calavera_morado2
+    3300704: papel_calavera_morado3
+    3300706: papel_calavera_naranja_03
+    3300708: papel_calavera_naranja_04
+    3300710: papel_calavera_naranja_05
+    3300712: papel_calavera_naranja_06
+    3300714: papel_calavera_rosa_01
+    3300716: papel_calavera_rosa_03
+    3300718: papel_calavera_rosa_04
+    3300720: papel_dia_naranja_01
+    3300722: papel_dia_naranja_02
+    3300724: papel_dia_rosa_01
+    3300726: papel_dia_rosa_02
+    3300728: pCone1
+    3300730: pCone2
+    3300732: pCone3
+    3300734: pCone4
+    3300736: pCube1
+    3300738: pCube1 1
+    3300740: pCube1 2
+    3300742: pCube3
+    3300744: pCube3 1
+    3300746: pCube3 2
+    3300748: pCube4
+    3300750: pCube4 1
+    3300752: pCube4 2
+    3300754: pCube5
+    3300756: pCube5 1
+    3300758: pCube5 2
+    3300760: pCube6
+    3300762: pCube6 1
+    3300764: pCube6 2
+    3300766: pCube7
+    3300768: pCube7 1
+    3300770: pCube7 2
+    3300772: petalo_010
+    3300774: petalo_011
+    3300776: petalo_012
+    3300778: petalo_013
+    3300780: petalo_014
+    3300782: petalo_015
+    3300784: petalo_016
+    3300786: petalo_017
+    3300788: petalo_018
+    3300790: petalo_019
+    3300792: petalo_02
+    3300794: petalo_020
+    3300796: petalo_021
+    3300798: petalo_03
+    3300800: petalo_04
+    3300802: petalo_05
+    3300804: petalo_06
+    3300806: petalo_07
+    3300808: petalo_08
+    3300810: petalo_09
+    3300812: taza_barro_01:chocolate
+    3300814: taza_barro_01:Taza_barro_01
+    3300816: taza_barro_01:taza_barro_asa
+    3300818: vela1
+    3300820: vela1 1
+    3300822: vela1 2
+    3300824: vela:cuerda_vela
+    3300826: vela:gotas_vela_01
+    3300828: vela:gotas_vela_02
+    3300830: vela:gotas_vela_03
+    3300832: vela:gotas_vela_04
+    3300834: vela:gotas_vela_05
+    3300836: vela:pCube1
+    3300838: vela:pCube3
+    3300840: vela:pCube4
+    3300842: vela:pCube5
+    3300844: vela:pCube6
+    3300846: vela:pCube7
+    3300848: vela:vela1
+    4300000: Craneo_superior_base_01
+    4300002: diente_arriba_01
+    4300004: diente_arriba_04
+    4300006: diente_arriba_03
+    4300008: diente_arriba_05
+    4300010: diente_arriba_06
+    4300012: diente_arriba_07
+    4300014: diente_arriba_08
+    4300016: diente_arriba_09
+    4300018: diente_arriba_01
+    4300020: diente_arriba_04
+    4300022: diente_arriba_03
+    4300024: diente_arriba_05
+    4300026: diente_arriba_06
+    4300028: diente_arriba_07
+    4300030: diente_arriba_08
+    4300032: diente_arriba_09
+    4300034: muela_abajo_l_03
+    4300036: muela_abajo_l_04
+    4300038: muela_abajo_l_02
+    4300040: muela_abajo_l_01
+    4300042: diente_abajo_011
+    4300044: diente_abajo_010
+    4300046: diente_abajo_01
+    4300048: diente_abajo_02
+    4300050: muela_abajo_l_03
+    4300052: muela_abajo_l_04
+    4300054: muela_abajo_l_02
+    4300056: muela_abajo_l_01
+    4300058: diente_abajo_011
+    4300060: diente_abajo_010
+    4300062: diente_abajo_01
+    4300064: diente_abajo_02
+    4300066: mandibula
+    4300068: ojo_r_01
+    4300070: petalo_018
+    4300072: petalo_019
+    4300074: petalo_020
+    4300076: petalo_021
+    4300078: petalo_012
+    4300080: petalo_013
+    4300082: petalo_014
+    4300084: petalo_015
+    4300086: petalo_016
+    4300088: petalo_017
+    4300090: bolita_petalo3
+    4300092: bolita_petalo2
+    4300094: bolita_petalo1
+    4300096: bolita_petalo
+    4300098: bolita_petalo7
+    4300100: bolita_petalo6
+    4300102: bolita_petalo5
+    4300104: bolita_petalo8
+    4300106: bolita_petalo4
+    4300108: bolita_petalo9
+    4300110: bolita_ojo_01
+    4300112: bolita_ojo_02
+    4300114: bolita_ojo_03
+    4300116: bolita_ojo_04
+    4300118: bolita_ojo_05
+    4300120: bolita_ojo_06
+    4300122: bolita_ojo_07
+    4300124: bolita_ojo_08
+    4300126: bolita_ojo_09
+    4300128: bolita_ojo_010
+    4300130: petalo_03
+    4300132: petalo_04
+    4300134: petalo_011
+    4300136: petalo_010
+    4300138: petalo_09
+    4300140: petalo_08
+    4300142: petalo_07
+    4300144: petalo_06
+    4300146: petalo_05
+    4300148: petalo_02
+    4300150: bolita_petalo3
+    4300152: bolita_petalo2
+    4300154: bolita_petalo1
+    4300156: bolita_petalo
+    4300158: bolita_petalo7
+    4300160: bolita_petalo6
+    4300162: bolita_petalo5
+    4300164: bolita_petalo8
+    4300166: bolita_petalo4
+    4300168: bolita_petalo9
+    4300170: bolita_ojo_r_01
+    4300172: bolita_ojo_r_02
+    4300174: bolita_ojo_r_03
+    4300176: bolita_ojo_r_04
+    4300178: bolita_ojo_r_05
+    4300180: bolita_ojo_r_06
+    4300182: bolita_ojo_r_07
+    4300184: bolita_ojo_r_08
+    4300186: bolita_ojo_r_09
+    4300188: bolita_ojo_r_010
+    4300190: Betun_circulo_ojo_l_02
+    4300192: Betun_circulo_ojo_l_01
+    4300194: bigote_l_02
+    4300196: bigote_l_01
+    4300198: cosoza3
+    4300200: cosoza2
+    4300202: cosoza1
+    4300204: cosoza
+    4300206: cosoza3
+    4300208: cosoza2
+    4300210: cosoza1
+    4300212: cosoza
+    4300214: cosoza4
+    4300216: cosoza6
+    4300218: cosoza7
+    4300220: cosoza4
+    4300222: cosoza6
+    4300224: cosoza7
+    4300226: bolita_nariz11
+    4300228: bolita_nariz10
+    4300230: bolita_nariz
+    4300232: bolita_nariz1
+    4300234: bolita_nariz2
+    4300236: bolita_nariz3
+    4300238: bolita_nariz4
+    4300240: bolita_nariz5
+    4300242: bolita_nariz6
+    4300244: bolita_nariz7
+    4300246: bolita_nariz8
+    4300248: bolita_nariz9
+    4300250: bolita_nariz25
+    4300252: bolita_nariz24
+    4300254: bolita_nariz23
+    4300256: bolita_nariz22
+    4300258: bolita_nariz21
+    4300260: bolita_nariz20
+    4300262: bolita_nariz19
+    4300264: bolita_nariz18
+    4300266: bolita_nariz17
+    4300268: bolita_nariz16
+    4300270: bolita_nariz15
+    4300272: bolita_nariz14
+    4300274: bolita_nariz13
+    4300276: bolita_nariz12
+    4300278: ceja_bola_l_07
+    4300280: ceja_bola_l_06
+    4300282: ceja_bola_l_05
+    4300284: ceja_bola_l_04
+    4300286: ceja_bola_l_03
+    4300288: ceja_bola_l_02
+    4300290: ceja_bola_l_01
+    4300292: ceja_bola_l_07
+    4300294: ceja_bola_l_06
+    4300296: ceja_bola_l_05
+    4300298: ceja_bola_l_04
+    4300300: ceja_bola_l_03
+    4300302: ceja_bola_l_02
+    4300304: ceja_bola_l_01
+    4300306: Ojo_l_01
+    4300308: Mesa_altar_01
+    4300310: Mesa_altar_03
+    4300312: Mantel_blanco
+    4300314: Mantel_blanco_02
+    4300316: papel_dia_rosa_01
+    4300318: papel_dia_naranja_01
+    4300320: papel_calavera_morado
+    4300322: papel_calavera_rosa_01
+    4300324: papel_base_azul
+    4300326: papel_calavera_morado1
+    4300328: papel_base_azul1
+    4300330: papel_calavera_rosa_03
+    4300332: papel_dia_naranja_02
+    4300334: papel_base_rosa_02
+    4300336: papel_base_morado2
+    4300338: papel_calavera_naranja_03
+    4300340: papel_base_azul2
+    4300342: papel_base_morado3
+    4300344: papel_base_rosa_03
+    4300346: papel_base_morado4
+    4300348: papel_dia_rosa_02
+    4300350: papel_calavera_morado2
+    4300352: papel_base_azul3
+    4300354: papel_calavera_rosa_04
+    4300356: papel_base_morado5
+    4300358: papel_base_rosa_04
+    4300360: papel_calavera_morado3
+    4300362: papel_calavera_naranja_04
+    4300364: papel_base_azul4
+    4300366: papel_base_rosa_05
+    4300368: papel_base_morado6
+    4300370: papel_calavera_naranja_05
+    4300372: papel_base_azul5
+    4300374: papel_base_morado7
+    4300376: papel_base_rosa_06
+    4300378: papel_base_azul6
+    4300380: papel_calavera_naranja_06
+    4300382: papel_base_morado8
+    4300384: papel_base_rosa_07
+    4300386: calavera_02_MUJER_02:betun_ojos_l_011
+    4300388: calavera_02_MUJER_02:betun_ojos_l_010
+    4300390: calavera_02_MUJER_02:betun_ojos_l_09
+    4300392: calavera_02_MUJER_02:betun_ojos_l_08
+    4300394: calavera_02_MUJER_02:betun_ojos_l_07
+    4300396: calavera_02_MUJER_02:betun_ojos_l_06
+    4300398: calavera_02_MUJER_02:betun_ojos_l_05
+    4300400: calavera_02_MUJER_02:betun_ojos_l_04
+    4300402: calavera_02_MUJER_02:betun_ojos_l_03
+    4300404: calavera_02_MUJER_02:betun_ojos_l_01
+    4300406: calavera_02_MUJER_02:betun_ojos_l_02
+    4300408: calavera_02_MUJER_02:betun_ojos_l_012
+    4300410: calavera_02_MUJER_02:betun_ojos_l_013
+    4300412: calavera_02_MUJER_02:betun_ojos_l_014
+    4300414: calavera_02_MUJER_02:betun_ojos_l_011
+    4300416: calavera_02_MUJER_02:betun_ojos_l_010
+    4300418: calavera_02_MUJER_02:betun_ojos_l_09
+    4300420: calavera_02_MUJER_02:betun_ojos_l_08
+    4300422: calavera_02_MUJER_02:betun_ojos_l_07
+    4300424: calavera_02_MUJER_02:betun_ojos_l_06
+    4300426: calavera_02_MUJER_02:betun_ojos_l_05
+    4300428: calavera_02_MUJER_02:betun_ojos_l_04
+    4300430: calavera_02_MUJER_02:betun_ojos_l_03
+    4300432: calavera_02_MUJER_02:betun_ojos_l_01
+    4300434: calavera_02_MUJER_02:betun_ojos_l_02
+    4300436: calavera_02_MUJER_02:betun_ojos_l_012
+    4300438: calavera_02_MUJER_02:betun_ojos_l_013
+    4300440: calavera_02_MUJER_02:betun_ojos_l_014
+    4300442: calavera_02_MUJER_02:betun_ojos_l_015
+    4300444: calavera_02_MUJER_02:betun_ojos_l_016
+    4300446: calavera_02_MUJER_02:betun_ojos_l_017
+    4300448: calavera_02_MUJER_02:betun_ojos_l_018
+    4300450: calavera_02_MUJER_02:betun_ojos_l_019
+    4300452: calavera_02_MUJER_02:betun_ojos_l_020
+    4300454: calavera_02_MUJER_02:betun_ojos_l_021
+    4300456: calavera_02_MUJER_02:betun_ojos_l_022
+    4300458: calavera_02_MUJER_02:betun_ojos_l_023
+    4300460: calavera_02_MUJER_02:betun_ojos_l_024
+    4300462: "calavera_02_MUJER_02:pesta\xF1a_01_l_01"
+    4300464: "calavera_02_MUJER_02:pesta\xF1a_01_l_02"
+    4300466: "calavera_02_MUJER_02:pesta\xF1a_01_l_03"
+    4300468: "calavera_02_MUJER_02:pesta\xF1a_01_l_04"
+    4300470: "calavera_02_MUJER_02:pesta\xF1a_01_l_01"
+    4300472: "calavera_02_MUJER_02:pesta\xF1a_01_l_02"
+    4300474: "calavera_02_MUJER_02:pesta\xF1a_01_l_03"
+    4300476: "calavera_02_MUJER_02:pesta\xF1a_01_l_04"
+    4300478: calavera_02_MUJER_02:rosa_01
+    4300480: calavera_02_MUJER_02:rosa_02
+    4300482: calavera_02_MUJER_02:rosa_03
+    4300484: calavera_02_MUJER_02:rosa_04
+    4300486: calavera_02_MUJER_02:rosa_05
+    4300488: calavera_02_MUJER_02:rosa_06
+    4300490: calavera_02_MUJER_02:rosa_07
+    4300492: calavera_02_MUJER_02:rosa_08
+    4300494: calavera_02_MUJER_02:rosa_09
+    4300496: calavera_02_MUJER_02:rosa_010
+    4300498: calavera_02_MUJER_02:rosa_011
+    4300500: calavera_02_MUJER_02:rosa_012
+    4300502: calavera_02_MUJER_02:rosa_013
+    4300504: calavera_02_MUJER_02:rosa_014
+    4300506: calavera_02_MUJER_02:rosa_015
+    4300508: calavera_02_MUJER_02:rosa_016
+    4300510: calavera_02_MUJER_02:rosa_017
+    4300512: calavera_02_MUJER_02:Craneo_superior_base_01
+    4300514: "calavera_02_MUJER_02:pESTA\xD1AS"
+    4300516: calavera_02_MUJER_02:Ojo_l_01
+    4300518: calavera_02_MUJER_02:ojo_r_01
+    4300520: calavera_02_MUJER_02:diente_arriba_01
+    4300522: calavera_02_MUJER_02:diente_arriba_04
+    4300524: calavera_02_MUJER_02:diente_arriba_03
+    4300526: calavera_02_MUJER_02:diente_arriba_05
+    4300528: calavera_02_MUJER_02:diente_arriba_06
+    4300530: calavera_02_MUJER_02:diente_arriba_07
+    4300532: calavera_02_MUJER_02:diente_arriba_08
+    4300534: calavera_02_MUJER_02:diente_arriba_09
+    4300536: calavera_02_MUJER_02:diente_arriba_01
+    4300538: calavera_02_MUJER_02:diente_arriba_04
+    4300540: calavera_02_MUJER_02:diente_arriba_03
+    4300542: calavera_02_MUJER_02:diente_arriba_05
+    4300544: calavera_02_MUJER_02:diente_arriba_06
+    4300546: calavera_02_MUJER_02:diente_arriba_07
+    4300548: calavera_02_MUJER_02:diente_arriba_08
+    4300550: calavera_02_MUJER_02:diente_arriba_09
+    4300552: calavera_02_MUJER_02:muela_abajo_l_03
+    4300554: calavera_02_MUJER_02:muela_abajo_l_04
+    4300556: calavera_02_MUJER_02:muela_abajo_l_02
+    4300558: calavera_02_MUJER_02:muela_abajo_l_01
+    4300560: calavera_02_MUJER_02:diente_abajo_011
+    4300562: calavera_02_MUJER_02:diente_abajo_010
+    4300564: calavera_02_MUJER_02:diente_abajo_01
+    4300566: calavera_02_MUJER_02:diente_abajo_02
+    4300568: calavera_02_MUJER_02:muela_abajo_l_03
+    4300570: calavera_02_MUJER_02:muela_abajo_l_04
+    4300572: calavera_02_MUJER_02:muela_abajo_l_02
+    4300574: calavera_02_MUJER_02:muela_abajo_l_01
+    4300576: calavera_02_MUJER_02:diente_abajo_011
+    4300578: calavera_02_MUJER_02:diente_abajo_010
+    4300580: calavera_02_MUJER_02:diente_abajo_01
+    4300582: calavera_02_MUJER_02:diente_abajo_02
+    4300584: calavera_02_MUJER_02:mandibula
+    4300586: CALAVERA_06_CHOCOLATE:Craneo_superior_base_01
+    4300588: CALAVERA_06_CHOCOLATE:diente_arriba_01
+    4300590: CALAVERA_06_CHOCOLATE:diente_arriba_04
+    4300592: CALAVERA_06_CHOCOLATE:diente_arriba_03
+    4300594: CALAVERA_06_CHOCOLATE:diente_arriba_05
+    4300596: CALAVERA_06_CHOCOLATE:diente_arriba_06
+    4300598: CALAVERA_06_CHOCOLATE:diente_arriba_07
+    4300600: CALAVERA_06_CHOCOLATE:diente_arriba_08
+    4300602: CALAVERA_06_CHOCOLATE:diente_arriba_09
+    4300604: CALAVERA_06_CHOCOLATE:diente_arriba_01
+    4300606: CALAVERA_06_CHOCOLATE:diente_arriba_04
+    4300608: CALAVERA_06_CHOCOLATE:diente_arriba_03
+    4300610: CALAVERA_06_CHOCOLATE:diente_arriba_05
+    4300612: CALAVERA_06_CHOCOLATE:diente_arriba_06
+    4300614: CALAVERA_06_CHOCOLATE:diente_arriba_07
+    4300616: CALAVERA_06_CHOCOLATE:diente_arriba_08
+    4300618: CALAVERA_06_CHOCOLATE:diente_arriba_09
+    4300620: CALAVERA_06_CHOCOLATE:muela_abajo_l_03
+    4300622: CALAVERA_06_CHOCOLATE:muela_abajo_l_04
+    4300624: CALAVERA_06_CHOCOLATE:muela_abajo_l_02
+    4300626: CALAVERA_06_CHOCOLATE:muela_abajo_l_01
+    4300628: CALAVERA_06_CHOCOLATE:diente_abajo_011
+    4300630: CALAVERA_06_CHOCOLATE:diente_abajo_010
+    4300632: CALAVERA_06_CHOCOLATE:diente_abajo_01
+    4300634: CALAVERA_06_CHOCOLATE:diente_abajo_02
+    4300636: CALAVERA_06_CHOCOLATE:muela_abajo_l_03
+    4300638: CALAVERA_06_CHOCOLATE:muela_abajo_l_04
+    4300640: CALAVERA_06_CHOCOLATE:muela_abajo_l_02
+    4300642: CALAVERA_06_CHOCOLATE:muela_abajo_l_01
+    4300644: CALAVERA_06_CHOCOLATE:diente_abajo_011
+    4300646: CALAVERA_06_CHOCOLATE:diente_abajo_010
+    4300648: CALAVERA_06_CHOCOLATE:diente_abajo_01
+    4300650: CALAVERA_06_CHOCOLATE:diente_abajo_02
+    4300652: CALAVERA_06_CHOCOLATE:mandibula
+    4300654: CALAVERA_06_CHOCOLATE:Ojo_l__chocolate_01
+    4300656: CALAVERA_06_CHOCOLATE:Ojo_R__chocolate_02
+    4300658: CALAVERA_06_CHOCOLATE:betun_ceja_r_01
+    4300660: CALAVERA_06_CHOCOLATE:Betun_lagrima_l_01
+    4300662: CALAVERA_06_CHOCOLATE:Betun_lagrima_r_01
+    4300664: CALAVERA_06_CHOCOLATE:Betun_pelo_r_03
+    4300666: CALAVERA_06_CHOCOLATE:Betun_pelo_r_04
+    4300668: CALAVERA_06_CHOCOLATE:Betun_pelo_r_05
+    4300670: CALAVERA_06_CHOCOLATE:Betun_pelo_r_06
+    4300672: CALAVERA_06_CHOCOLATE:Betun_pelo_r_07
+    4300674: CALAVERA_06_CHOCOLATE:Betun_pelo_r_08
+    4300676: CALAVERA_06_CHOCOLATE:Betun_pelo_r_09
+    4300678: CALAVERA_06_CHOCOLATE:Betun_pelo_r_010
+    4300680: CALAVERA_06_CHOCOLATE:Betun_pelo_r_011
+    4300682: CALAVERA_06_CHOCOLATE:betun_ceja_r_02
+    4300684: CALAVERA_06_CHOCOLATE:Lemgua
+    4300686: taza_barro_01:Taza_barro_01
+    4300688: taza_barro_01:taza_barro_asa
+    4300690: taza_barro_01:chocolate
+    4300692: cuadro:Shape01
+    4300694: cuadro:ramka01
+    4300696: cuadro:cristal
+    4300698: pan_muerto:pan_muerto_base
+    4300700: pan_muerto:pan_muerto_punta
+    4300702: pan_muerto:Hueso2
+    4300704: pan_muerto:Hueso7
+    4300706: pan_muerto:Hueso8
+    4300708: pan_muerto:Hueso9
+    4300710: pan_muerto:Hueso10
+    4300712: pan_muerto:Hueso11
+    4300714: vela:vela1
+    4300716: vela:gotas_vela_01
+    4300718: vela:pCube1
+    4300720: vela:pCube3
+    4300722: vela:pCube4
+    4300724: vela:gotas_vela_02
+    4300726: vela:gotas_vela_03
+    4300728: vela:pCube5
+    4300730: vela:gotas_vela_04
+    4300732: vela:pCube6
+    4300734: vela:pCube7
+    4300736: vela:gotas_vela_05
+    4300738: vela:cuerda_vela
+    4300740: vela1
+    4300742: gotas_vela_01
+    4300744: pCube1
+    4300746: pCube3
+    4300748: pCube4
+    4300750: gotas_vela_02
+    4300752: gotas_vela_03
+    4300754: pCube5
+    4300756: gotas_vela_04
+    4300758: pCube6
+    4300760: pCube7
+    4300762: gotas_vela_05
+    4300764: cuerda_vela
+    4300766: vela1
+    4300768: gotas_vela_01
+    4300770: pCube1
+    4300772: pCube3
+    4300774: pCube4
+    4300776: gotas_vela_02
+    4300778: gotas_vela_03
+    4300780: pCube5
+    4300782: gotas_vela_04
+    4300784: pCube6
+    4300786: pCube7
+    4300788: gotas_vela_05
+    4300790: cuerda_vela
+    4300792: vela1
+    4300794: gotas_vela_01
+    4300796: pCube1
+    4300798: pCube3
+    4300800: pCube4
+    4300802: gotas_vela_02
+    4300804: gotas_vela_03
+    4300806: pCube5
+    4300808: gotas_vela_04
+    4300810: pCube6
+    4300812: pCube7
+    4300814: gotas_vela_05
+    4300816: cuerda_vela
+    4300818: FLORES_CEPASUCHILT_01:CENPASUCHL_AMARILLO_Naranjoso
+    4300820: FLORES_CEPASUCHILT_01:CENPASUCHIL_amarillo
+    4300822: FLORES_CEPASUCHILT_01:CENPASUCHIL_morado_rojizo
+    4300824: CENPASUCHL_AMARILLO_Naranjoso
+    4300826: CENPASUCHL_AMARILLO_Naranjoso1
+    4300828: CENPASUCHL_AMARILLO_Naranjoso2
+    4300830: CENPASUCHL_AMARILLO_Naranjoso3
+    4300832: CENPASUCHL_AMARILLO_Naranjoso4
+    4300834: CENPASUCHL_AMARILLO_Naranjoso5
+    4300836: CENPASUCHL_AMARILLO_Naranjoso6
+    4300838: CENPASUCHIL_morado_rojizo
+    4300840: CENPASUCHIL_amarillo
+    4300842: pCone1
+    4300844: pCone2
+    4300846: pCone3
+    4300848: pCone4
+    7400000: Take 001
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
   externalObjects: {}
   materials:
-    materialImportMode: 2
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -17,7 +2294,6 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
-    removeConstantScaleCurves: 1
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -41,47 +2317,34 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    nodeNameCollisionStrategy: 1
-    fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    bakeAxisConversion: 0
     preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    optimizeBones: 1
-    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
-    secondaryUVMarginMethod: 1
-    secondaryUVMinLightmapResolution: 40
-    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
-    blendShapeNormalImportMode: 1
-    normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 1
+  copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -91,18 +2354,13 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
-  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
-  remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 
   assetBundleName: 

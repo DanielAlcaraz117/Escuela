@@ -1,11 +1,258 @@
 fileFormatVersion: 2
 guid: b8cc6b630be62fc45a4f9919f50be429
 ModelImporter:
-  serializedVersion: 21300
-  internalIDToNameTable: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Algodon
+    100004: Ave_del_Paraiso
+    100006: Euphrobia
+    100008: Girasol
+    100010: "Grac\xEDdea"
+    100012: L0
+    100014: L0 1
+    100016: L0 10
+    100018: L0 11
+    100020: L0 2
+    100022: L0 3
+    100024: L0 4
+    100026: L0 5
+    100028: L0 6
+    100030: L0 7
+    100032: L0 8
+    100034: L0 9
+    100036: L1
+    100038: L1 1
+    100040: L1 10
+    100042: L1 2
+    100044: L1 3
+    100046: L1 4
+    100048: L1 5
+    100050: L1 6
+    100052: L1 7
+    100054: L1 8
+    100056: L1 9
+    100058: L2
+    100060: L2 1
+    100062: L2 2
+    100064: L2 3
+    100066: L2 4
+    100068: L2 5
+    100070: L2 6
+    100072: L2 7
+    100074: L2 8
+    100076: L2 9
+    100078: L3
+    100080: L4
+    100082: L5
+    100084: Margarita
+    100086: Marigold
+    100088: Orquidea
+    100090: Paeonia
+    100092: Rosa
+    100094: Rosetta
+    100096: Tierra
+    100098: transform1
+    100100: transform2
+    100102: transform3
+    100104: typeMesh1
+    100106: typeMesh2
+    100108: typeMesh3
+    100110: Violeta
+    400000: //RootNode
+    400002: Algodon
+    400004: Ave_del_Paraiso
+    400006: Euphrobia
+    400008: Girasol
+    400010: "Grac\xEDdea"
+    400012: L0
+    400014: L0 1
+    400016: L0 10
+    400018: L0 11
+    400020: L0 2
+    400022: L0 3
+    400024: L0 4
+    400026: L0 5
+    400028: L0 6
+    400030: L0 7
+    400032: L0 8
+    400034: L0 9
+    400036: L1
+    400038: L1 1
+    400040: L1 10
+    400042: L1 2
+    400044: L1 3
+    400046: L1 4
+    400048: L1 5
+    400050: L1 6
+    400052: L1 7
+    400054: L1 8
+    400056: L1 9
+    400058: L2
+    400060: L2 1
+    400062: L2 2
+    400064: L2 3
+    400066: L2 4
+    400068: L2 5
+    400070: L2 6
+    400072: L2 7
+    400074: L2 8
+    400076: L2 9
+    400078: L3
+    400080: L4
+    400082: L5
+    400084: Margarita
+    400086: Marigold
+    400088: Orquidea
+    400090: Paeonia
+    400092: Rosa
+    400094: Rosetta
+    400096: Tierra
+    400098: transform1
+    400100: transform2
+    400102: transform3
+    400104: typeMesh1
+    400106: typeMesh2
+    400108: typeMesh3
+    400110: Violeta
+    2100000: lambert3
+    2100002: lambert2
+    2100004: lambert1
+    2100006: lambert4
+    2100008: lambert5
+    2100010: lambert9
+    2100012: lambert7
+    2100014: lambert8
+    2100016: lambert10
+    2100018: lambert11
+    2100020: lambert6
+    2100022: lambert12
+    2100024: typeBlinn
+    2100026: lambert13
+    2300000: L0
+    2300002: L0 1
+    2300004: L0 10
+    2300006: L0 11
+    2300008: L0 2
+    2300010: L0 3
+    2300012: L0 4
+    2300014: L0 5
+    2300016: L0 6
+    2300018: L0 7
+    2300020: L0 8
+    2300022: L0 9
+    2300024: L1
+    2300026: L1 1
+    2300028: L1 10
+    2300030: L1 2
+    2300032: L1 3
+    2300034: L1 4
+    2300036: L1 5
+    2300038: L1 6
+    2300040: L1 7
+    2300042: L1 8
+    2300044: L1 9
+    2300046: L2
+    2300048: L2 1
+    2300050: L2 2
+    2300052: L2 3
+    2300054: L2 4
+    2300056: L2 5
+    2300058: L2 6
+    2300060: L2 7
+    2300062: L2 8
+    2300064: L2 9
+    2300066: L3
+    2300068: L4
+    2300070: L5
+    2300072: Tierra
+    2300074: typeMesh1
+    2300076: typeMesh2
+    2300078: typeMesh3
+    3300000: L0
+    3300002: L0 1
+    3300004: L0 10
+    3300006: L0 11
+    3300008: L0 2
+    3300010: L0 3
+    3300012: L0 4
+    3300014: L0 5
+    3300016: L0 6
+    3300018: L0 7
+    3300020: L0 8
+    3300022: L0 9
+    3300024: L1
+    3300026: L1 1
+    3300028: L1 10
+    3300030: L1 2
+    3300032: L1 3
+    3300034: L1 4
+    3300036: L1 5
+    3300038: L1 6
+    3300040: L1 7
+    3300042: L1 8
+    3300044: L1 9
+    3300046: L2
+    3300048: L2 1
+    3300050: L2 2
+    3300052: L2 3
+    3300054: L2 4
+    3300056: L2 5
+    3300058: L2 6
+    3300060: L2 7
+    3300062: L2 8
+    3300064: L2 9
+    3300066: L3
+    3300068: L4
+    3300070: L5
+    3300072: Tierra
+    3300074: typeMesh1
+    3300076: typeMesh2
+    3300078: typeMesh3
+    4300000: L0
+    4300002: L1
+    4300004: L2
+    4300006: L0
+    4300008: L1
+    4300010: L2
+    4300012: L0
+    4300014: L1
+    4300016: L2
+    4300018: L0
+    4300020: L1
+    4300022: L3
+    4300024: L0
+    4300026: L1
+    4300028: L2
+    4300030: L0
+    4300032: L1
+    4300034: L2
+    4300036: L0
+    4300038: L4
+    4300040: L5
+    4300042: L0
+    4300044: L1
+    4300046: L2
+    4300048: L0
+    4300050: L1
+    4300052: L2
+    4300054: L0
+    4300056: L1
+    4300058: L2
+    4300060: L0
+    4300062: L1
+    4300064: L2
+    4300066: L0
+    4300068: L1
+    4300070: L2
+    4300072: typeMesh1
+    4300074: typeMesh2
+    4300076: typeMesh3
+    4300078: Tierra
+    9500000: //RootNode
   externalObjects: {}
   materials:
-    materialImportMode: 2
+    importMaterials: 1
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -14,7 +261,6 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
-    removeConstantScaleCurves: 1
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -38,47 +284,34 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
-    useSRGBMaterialColor: 1
-    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
-    nodeNameCollisionStrategy: 1
-    fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
+    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
-    bakeAxisConversion: 0
     preserveHierarchy: 0
-    skinWeightsMode: 0
-    maxBonesPerVertex: 4
-    minBoneWeight: 0.001
-    optimizeBones: 1
-    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
-    secondaryUVMarginMethod: 1
-    secondaryUVMinLightmapResolution: 40
-    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
-    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
-    blendShapeNormalImportMode: 1
-    normalSmoothingSource: 0
-  referencedClips: []
   importAnimation: 1
+  copyAvatar: 0
   humanDescription:
-    serializedVersion: 3
+    serializedVersion: 2
     human: []
     skeleton: []
     armTwist: 0.5
@@ -88,18 +321,13 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
-    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
-  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
-  avatarSetup: 0
-  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
-  remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 
   assetBundleName: 
