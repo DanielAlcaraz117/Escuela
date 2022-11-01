@@ -1,122 +1,11 @@
 fileFormatVersion: 2
 guid: 694c028c67e7b0548954d0991c94797c
 ModelImporter:
-  serializedVersion: 23
-  fileIDToRecycleName:
-    100000: //RootNode
-    100002: pCylinder55
-    100004: pCylinder57
-    100006: pCylinder58
-    100008: pCylinder59
-    100010: polySurface12
-    100012: polySurface14
-    100014: polySurface16_pPlane1_polySurface18_polySurface27
-    100016: polySurface16_pPlane1_polySurface18_polySurface29
-    100018: polySurface16_pPlane1_polySurface18_polySurface30
-    100020: polySurface16_pPlane1_polySurface18_polySurface32
-    100022: polySurface16_pPlane1_polySurface18_polySurface33
-    100024: polySurface16_pPlane1_polySurface26
-    100026: polySurface16_pPlane1_polySurface36_polySurface18
-    100028: polySurface34_polySurface16_pPlane1
-    100030: pPlane1_polySurface25
-    100032: pPlane1_polySurface28
-    100034: pPlane1_polySurface31
-    100036: pPlane1_polySurface35
-    400000: //RootNode
-    400002: pCylinder55
-    400004: pCylinder57
-    400006: pCylinder58
-    400008: pCylinder59
-    400010: polySurface12
-    400012: polySurface14
-    400014: polySurface16_pPlane1_polySurface18_polySurface27
-    400016: polySurface16_pPlane1_polySurface18_polySurface29
-    400018: polySurface16_pPlane1_polySurface18_polySurface30
-    400020: polySurface16_pPlane1_polySurface18_polySurface32
-    400022: polySurface16_pPlane1_polySurface18_polySurface33
-    400024: polySurface16_pPlane1_polySurface26
-    400026: polySurface16_pPlane1_polySurface36_polySurface18
-    400028: polySurface34_polySurface16_pPlane1
-    400030: pPlane1_polySurface25
-    400032: pPlane1_polySurface28
-    400034: pPlane1_polySurface31
-    400036: pPlane1_polySurface35
-    2100000: pCylinder55Mat
-    2100002: pCylinder57Mat
-    2100004: pCylinder58Mat
-    2100006: pCylinder59Mat
-    2100008: polySurface12Mat
-    2100010: polySurface14Mat
-    2100012: polySurface16_pPlane1_polySurface18_polySurface27Mat
-    2100014: polySurface16_pPlane1_polySurface18_polySurface29Mat
-    2100016: polySurface16_pPlane1_polySurface18_polySurface30Mat
-    2100018: polySurface16_pPlane1_polySurface18_polySurface32Mat
-    2100020: polySurface16_pPlane1_polySurface18_polySurface33Mat
-    2100022: polySurface16_pPlane1_polySurface26Mat
-    2100024: polySurface16_pPlane1_polySurface36_polySurface18Mat
-    2100026: polySurface34_polySurface16_pPlane1Mat
-    2100028: pPlane1_polySurface25Mat
-    2100030: pPlane1_polySurface28Mat
-    2100032: pPlane1_polySurface31Mat
-    2100034: pPlane1_polySurface35Mat
-    2300000: pCylinder55
-    2300002: pCylinder57
-    2300004: pCylinder58
-    2300006: pCylinder59
-    2300008: polySurface12
-    2300010: polySurface14
-    2300012: polySurface16_pPlane1_polySurface18_polySurface27
-    2300014: polySurface16_pPlane1_polySurface18_polySurface29
-    2300016: polySurface16_pPlane1_polySurface18_polySurface30
-    2300018: polySurface16_pPlane1_polySurface18_polySurface32
-    2300020: polySurface16_pPlane1_polySurface18_polySurface33
-    2300022: polySurface16_pPlane1_polySurface26
-    2300024: polySurface16_pPlane1_polySurface36_polySurface18
-    2300026: polySurface34_polySurface16_pPlane1
-    2300028: pPlane1_polySurface25
-    2300030: pPlane1_polySurface28
-    2300032: pPlane1_polySurface31
-    2300034: pPlane1_polySurface35
-    3300000: pCylinder55
-    3300002: pCylinder57
-    3300004: pCylinder58
-    3300006: pCylinder59
-    3300008: polySurface12
-    3300010: polySurface14
-    3300012: polySurface16_pPlane1_polySurface18_polySurface27
-    3300014: polySurface16_pPlane1_polySurface18_polySurface29
-    3300016: polySurface16_pPlane1_polySurface18_polySurface30
-    3300018: polySurface16_pPlane1_polySurface18_polySurface32
-    3300020: polySurface16_pPlane1_polySurface18_polySurface33
-    3300022: polySurface16_pPlane1_polySurface26
-    3300024: polySurface16_pPlane1_polySurface36_polySurface18
-    3300026: polySurface34_polySurface16_pPlane1
-    3300028: pPlane1_polySurface25
-    3300030: pPlane1_polySurface28
-    3300032: pPlane1_polySurface31
-    3300034: pPlane1_polySurface35
-    4300000: pCylinder55
-    4300002: pCylinder57
-    4300004: pCylinder58
-    4300006: pCylinder59
-    4300008: polySurface12
-    4300010: polySurface14
-    4300012: polySurface16_pPlane1_polySurface18_polySurface27
-    4300014: polySurface16_pPlane1_polySurface18_polySurface29
-    4300016: polySurface16_pPlane1_polySurface18_polySurface30
-    4300018: polySurface16_pPlane1_polySurface18_polySurface32
-    4300020: polySurface16_pPlane1_polySurface18_polySurface33
-    4300022: polySurface16_pPlane1_polySurface26
-    4300024: polySurface16_pPlane1_polySurface36_polySurface18
-    4300026: polySurface34_polySurface16_pPlane1
-    4300028: pPlane1_polySurface25
-    4300030: pPlane1_polySurface28
-    4300032: pPlane1_polySurface31
-    4300034: pPlane1_polySurface35
-    9500000: //RootNode
+  serializedVersion: 21300
+  internalIDToNameTable: []
   externalObjects: {}
   materials:
-    importMaterials: 1
+    materialImportMode: 2
     materialName: 0
     materialSearch: 1
     materialLocation: 1
@@ -125,6 +14,7 @@ ModelImporter:
     bakeSimulation: 0
     resampleCurves: 1
     optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
     motionNodeName: 
     rigImportErrors: 
     rigImportWarnings: 
@@ -148,34 +38,47 @@ ModelImporter:
     globalScale: 1
     meshCompression: 0
     addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
     importVisibility: 1
     importBlendShapes: 1
     importCameras: 1
     importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
     swapUVChannels: 0
     generateSecondaryUV: 0
     useFileUnits: 1
-    optimizeMeshForGPU: 1
     keepQuads: 0
     weldVertices: 1
+    bakeAxisConversion: 0
     preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
     indexFormat: 0
     secondaryUVAngleDistortion: 8
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
     secondaryUVPackMargin: 4
     useFileScale: 1
-    previousCalculatedGlobalScale: 1
-    hasPreviousCalculatedGlobalScale: 1
   tangentSpace:
     normalSmoothAngle: 60
     normalImportMode: 0
     tangentImportMode: 3
     normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
   importAnimation: 1
-  copyAvatar: 0
   humanDescription:
-    serializedVersion: 2
+    serializedVersion: 3
     human: []
     skeleton: []
     armTwist: 0.5
@@ -185,13 +88,18 @@ ModelImporter:
     armStretch: 0.05
     legStretch: 0.05
     feetSpacing: 0
+    globalScale: 1
     rootMotionBoneName: 
     hasTranslationDoF: 0
     hasExtraRoot: 0
     skeletonHasParents: 1
   lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
   animationType: 2
   humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
   additionalBone: 0
   userData: 
   assetBundleName: 

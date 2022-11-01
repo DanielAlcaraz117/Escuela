@@ -1,6 +1,10 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:Proyecto del equipo/Assets/Resources.meta
 guid: b188bda0a313bd54b8f269e109c9ae35
 folderAsset: yes
+========
+guid: 8c0cfd06645ac2a428f69e64d227731b
+>>>>>>>> parent of 8e12945 (Int):My project/Assets/Scenes/Independencia.unity.meta
 DefaultImporter:
   externalObjects: {}
   userData: 
