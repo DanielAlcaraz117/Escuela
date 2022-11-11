@@ -1,0 +1,47 @@
+# Blender MTL File: 'portada_valencia_mod2.blend'
+# Material Count: 4
+
+newmtl Blanco
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Default_OBJ
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump portada_valencia_normales.png
+map_Kd portada_valencia_diffuse.png
+
+newmtl Negro
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.015070 0.015070 0.015070
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+
+newmtl Tejado
+Ns 225.000000
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump PBR - Metallic Roughness_Tejado_Normal.png
+map_Kd PBR - Metallic Roughness_Tejado_Diffuse.png
+map_Ns PBR - Metallic Roughness_Tejado_Roughness.png
