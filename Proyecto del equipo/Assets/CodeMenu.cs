@@ -13,14 +13,6 @@ public class CodeMenu : MonoBehaviour
     {
         SceneManager.LoadScene("Independencia");
     }
-    public void reyesM()
-    {
-        SceneManager.LoadScene("ReyesM");
-    }
-    public void Gela()
-    {
-        SceneManager.LoadScene("Guelaguetza");
-    }
     public void Salir()
     {
         Application.Quit();
