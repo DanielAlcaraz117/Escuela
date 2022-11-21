@@ -101,7 +101,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 106
+  controlID: 79
 --- !u!114 &5
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -153,7 +153,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 105
+  controlID: 104
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -311,9 +311,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 9c33ffff
-      m_LastClickedID: -52324
-      m_ExpandedIDs: 42f3ffffccf3ffffaaf5ffff2af6ffffd8f8ffff5af9ffffcef9fffffafaffff3e540500
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 6474ffffa474ffff3476ffff5a76ffff7676ffff8681ffff6884ffffa884ffff3886ffff5e86ffff7a86ffffb0cefffff6d0ffff36d1ffffc6d2ffffecd2ffff08d3ffffeeefffff40f3ffff82f3ffff9af3ffffc0f3ffffccf3fffff0f5ffff34f6ffffc4f7ffffeaf7ffff06f8ffff0cfbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -545,7 +545,7 @@ MonoBehaviour:
       containerId: overlay-container--right
       floating: 0
       collapsed: 0
-      displayed: 1
+      displayed: 0
       snapOffset: {x: 0, y: 0}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
@@ -562,9 +562,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 161.95937, y: 5.8658733, z: -264.71136}
+    m_Target: {x: 35.769135, y: 56.093033, z: 5.773678}
     speed: 2
-    m_Value: {x: 161.95937, y: 5.8658733, z: -264.71136}
+    m_Value: {x: 35.769135, y: 56.093033, z: 5.773678}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -611,13 +611,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.43933624, y: -0.4302777, z: 0.25054732, w: 0.7480584}
+    m_Target: {x: -0.0956606, y: -0.74964565, z: -0.11409365, w: 0.64528203}
     speed: 2
-    m_Value: {x: 0.43922195, y: -0.43016577, z: 0.25048214, w: 0.74786377}
+    m_Value: {x: -0.09563546, y: -0.74944866, z: -0.114063665, w: 0.64511245}
   m_Size:
-    m_Target: 13.475312
+    m_Target: 52.6564
     speed: 2
-    m_Value: 13.475312
+    m_Value: 52.6564
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -635,7 +635,7 @@ MonoBehaviour:
     m_FarClip: 10000
     m_DynamicClip: 1
     m_OcclusionCulling: 0
-  m_LastSceneViewRotation: {x: -0.17036119, y: 0.8138052, z: -0.294124, w: -0.47137177}
+  m_LastSceneViewRotation: {x: 0.22106695, y: -0.32565886, z: 0.07666897, w: 0.9163613}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
@@ -683,23 +683,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Dia_Independencia/textures
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Dia_Independencia/textures
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\cread\OneDrive\Documentos\GitHub\Escuela\Proyecto del
     equipo
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 129.40002}
-    m_SelectedIDs: 30130100
-    m_LastClickedID: 70448
-    m_ExpandedIDs: 00000000f4120100f6120100f8120100fa120100fc120100fe12010000130100021301000413010006130100081301000a1301000c1301000e130100101301001213010000ca9a3bffffff7f
+    scrollPos: {x: 0, y: 193.40002}
+    m_SelectedIDs: 84130100
+    m_LastClickedID: 70532
+    m_ExpandedIDs: 00000000e2120100e4120100e6120100e8120100ea120100ec120100ee120100f0120100f2120100f4120100f6120100f8120100fa120100fc120100fe1201000013010000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -727,7 +727,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000f4120100f6120100f8120100fa120100fc120100fe12010000130100021301000413010006130100081301000a1301000c1301000e1301001013010012130100
+    m_ExpandedIDs: 00000000e2120100e4120100e6120100e8120100ea120100ec120100ee120100f0120100f2120100f4120100f6120100f8120100fa120100fc120100fe12010000130100
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
