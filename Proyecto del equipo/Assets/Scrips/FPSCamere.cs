@@ -10,7 +10,7 @@ public class FPSCamere : MonoBehaviour
     void Start()
     {
         camera = transform.Find("Camera");
-        Cursor.lockState = CursorLockMode.Locked;
+   
     }
 
     // Update is called once per frame
